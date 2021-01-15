@@ -1,0 +1,2026 @@
+,ID,Name,Nationality,Club,GKDiving,GKHandling,GKKicking,GKPositioning,GKReflexes
+0,193080,De Gea,Spain,Manchester United,90,85,87,88,94
+1,200389,J. Oblak,Slovenia,Atl?tico Madrid,86,92,78,88,89
+2,192448,M. ter Stegen,Germany,FC Barcelona,87,85,88,85,90
+3,192119,T. Courtois,Belgium,Real Madrid,85,91,72,86,88
+4,167495,M. Neuer,Germany,FC Bayern M?nchen,90,86,91,87,87
+5,167948,H. Lloris,France,Tottenham Hotspur,88,84,68,83,92
+6,162835,S. Handanovi?,Slovenia,Inter,87,86,69,89,89
+7,1179,G. Buffon,Italy,Paris Saint-Germain,88,87,74,90,83
+8,193041,K. Navas,Costa Rica,Real Madrid,90,81,75,82,90
+9,210257,Ederson,Brazil,Manchester City,85,80,91,82,87
+10,212831,Alisson,Brazil,Liverpool,83,81,85,84,88
+11,186153,W. Szcz?sny,Poland,Juventus,85,81,71,85,87
+12,199482,A. Lopes,Portugal,Olympique Lyonnais,86,80,75,81,88
+13,198009,M. Perin,Italy,Juventus,81,85,71,79,90
+14,192563,B. Leno,Germany,Arsenal,84,82,75,85,82
+15,190941,L. Hr?deck?,Finland,Bayer 04 Leverkusen,85,79,68,82,88
+16,178750,Sergio Asenjo,Spain,Villarreal CF,85,83,77,82,84
+17,167628,S. Ruffier,France,AS Saint-?tienne,82,84,77,85,82
+18,163587,K. Schmeichel,Denmark,Leicester City,82,77,82,80,88
+19,206585,Kepa,Spain,Chelsea,84,80,76,80,84
+20,204935,J. Pickford,England,Everton,83,78,88,81,86
+21,200316,T. Horn,Germany,1. FC K?ln,83,80,83,82,86
+22,194404,Neto,Brazil,Valencia CF,85,79,79,78,82
+23,193698,O. Baumann,Germany,TSG 1899 Hoffenheim,82,82,70,82,85
+24,192593,D. Suba?i?,Croatia,AS Monaco,82,80,79,82,84
+25,179783,R. F?hrmann,Germany,FC Schalke 04,83,81,52,82,87
+26,178086,Ad?n,Spain,Atl?tico Madrid,81,84,78,84,83
+27,178005,Rui Patr?cio,Portugal,Wolverhampton Wanderers,85,81,80,79,82
+28,177683,Y. Sommer,Switzerland,Borussia M?nchengladbach,78,84,80,80,85
+29,163705,S. Mandanda,France,Olympique de Marseille,86,81,70,79,84
+30,104389,R. Jarstein,Norway,Hertha BSC,79,82,76,86,84
+31,24630,Pepe Reina,Spain,Milan,80,83,82,82,82
+32,236583,J. Pavlenka,Czech Republic,SV Werder Bremen,85,78,68,78,85
+33,230621,G. Donnarumma,Italy,Milan,88,78,72,78,88
+34,230168,Raphaelito Anjos,Brazil,Gr?mio,79,84,77,83,78
+35,221087,Pau L?pez,Spain,Real Betis,81,82,79,83,81
+36,199987,J. Cillessen,Netherlands,FC Barcelona,80,83,75,81,80
+37,192984,K. Casteels,Belgium,VfL Wolfsburg,83,77,77,81,83
+38,189117,R. B?rki,Switzerland,Borussia Dortmund,86,78,73,77,86
+39,168435,S. Sirigu,Italy,Torino,84,76,76,83,81
+40,168354,E. Viviano,Italy,Sporting CP,83,84,76,81,83
+41,163489,A. Consigli,Italy,Sassuolo,82,83,72,82,83
+42,48940,P. ?ech,Czech Republic,Arsenal,78,82,70,83,79
+43,5479,Casillas,Spain,FC Porto,87,74,58,82,84
+44,212151,T. Strakosha,Albania,Lazio,81,77,75,78,86
+45,200726,B. Lecomte,France,Montpellier HSC,81,76,79,81,82
+46,193105,A. Areola,France,Paris Saint-Germain,83,78,70,77,84
+47,182494,F. Muslera,Uruguay,Galatasaray SK,81,75,75,81,83
+48,164835,L. Fabia?ski,Poland,West Ham United,79,83,70,80,84
+49,226753,A. Onana,Cameroon,Ajax,83,79,85,75,80
+50,215316,G. Rulli,Argentina,Real Sociedad,83,76,74,77,83
+51,214584,F. Armani,Argentina,River Plate,79,74,69,79,84
+52,209960,Pacheco,Spain,Deportivo Alav?s,79,77,68,81,81
+53,204120,T. Vacl?k,Czech Republic,Sevilla FC,82,72,74,81,85
+54,203841,N. Pope,England,Burnley,79,80,74,80,80
+55,203042,J. Butland,England,Stoke City,82,77,71,80,84
+56,190778,J. Zoet,Netherlands,PSV,79,77,77,79,83
+57,189690,Guaita,Spain,Crystal Palace,82,81,79,77,82
+58,188943,K. Trapp,Germany,Eintracht Frankfurt,79,74,77,82,83
+59,186569,S. Ulreich,Germany,FC Bayern M?nchen,79,72,69,80,86
+60,185122,P. Gul?csi,Hungary,RB Leipzig,81,80,76,76,81
+61,173373,S. Romero,Argentina,Manchester United,78,76,81,77,82
+62,148119,I. Akinfeev,Russia,PFC CSKA Moscow,77,72,78,82,84
+63,146748,Diego L?pez,Spain,RCD Espanyol,75,81,74,81,76
+64,140293,A. Mirante,Italy,Roma,82,80,64,78,82
+65,110677,Moy?,Spain,Real Sociedad,84,77,81,80,79
+66,49031,S. Sorrentino,Italy,Chievo Verona,81,82,66,82,79
+67,230312,Gabri Prest?o,Brazil,Internacional,81,75,71,77,82
+68,229909,A. Lunev,Russia,,80,73,65,77,85
+69,227290,M. Dmitrovi?,Serbia,SD Eibar,74,79,78,81,79
+70,225647,M. Campa?a,Uruguay,Independiente,81,75,74,80,82
+71,206652,Sergio Rico,Spain,Fulham,77,78,77,79,81
+72,203775,L. Karius,Germany,Be?ikta? JK,82,74,78,76,82
+73,201325,C. T?t?ru?anu,Romania,FC Nantes,80,76,75,79,82
+74,199005,M. Ryan,Australia,Brighton & Hove Albion,81,74,82,78,83
+75,190243,M. Hitz,Switzerland,Borussia Dortmund,81,80,63,79,81
+76,186148,R. Zieler,Germany,VfB Stuttgart,75,76,70,79,81
+77,183497,O. Karnezis,Greece,Napoli,80,78,72,77,81
+78,177723,Fabricio,Spain,Fulham,76,80,77,77,79
+79,177644,Kiko Casilla,Spain,Real Madrid,74,81,79,81,77
+80,176550,D. Ospina,Colombia,Napoli,83,70,78,77,85
+81,173426,S. Mignolet,Belgium,Liverpool,80,74,64,76,82
+82,172723,A. Begovi?,Bosnia Herzegovina,Bournemouth,80,80,72,77,79
+83,163264,T. Heaton,England,Burnley,79,78,74,80,80
+84,150724,J. Hart,England,Burnley,80,76,70,77,81
+85,121933,R. Adler,Germany,1. FSV Mainz 05,78,77,70,81,79
+86,231691,A. Lafont,France,Fiorentina,79,77,71,76,80
+87,226379,M. D?az,Argentina,Club Atl?tico Hurac?n,76,73,62,82,80
+88,223952,David Soria,Spain,Getafe CF,81,73,66,81,75
+89,220407,M. D?bravka,Slovakia,Newcastle United,75,80,81,76,80
+90,216065,M. Sportiello,Italy,Frosinone,80,76,68,77,81
+91,213732,A. Selikhov,Russia,Spartak Moscow,79,81,78,77,75
+92,209307,Tiago Volpi,Brazil,Quer?taro,83,67,66,78,82
+93,208104,Matheus,Brazil,SC Braga,80,73,71,77,80
+94,205659,A. Cragno,Italy,Cagliari,82,76,60,76,85
+95,204240,B. Reynet,France,Toulouse Football Club,77,76,74,77,81
+96,198513,Cl?udio Ramos,Portugal,CD Tondela,81,76,65,74,80
+97,158121,B. Costil,France,FC Girondins de Bordeaux,80,76,77,77,78
+98,174543,C. Bravo,Chile,Manchester City,78,77,85,75,78
+99,163806,Sergio,Spain,RC Celta,79,73,75,78,81
+100,180714,Guilherme,Russia,Lokomotiv Moscow,82,73,72,78,80
+101,176919,N. Guzm?n,Argentina,Tigres U.A.N.L.,76,75,67,80,78
+102,135451,Gomes,Brazil,Watford,80,72,60,77,83
+103,202789,A. Schwolow,Germany,SC Freiburg,76,77,71,72,79
+104,142902,A. Pyatov,Ukraine,Shakhtar Donetsk,75,69,82,80,81
+105,227127,?lex Remiro,Spain,Athletic Club de Bilbao,82,72,78,74,77
+106,209981,Y. Bounou,Morocco,Girona FC,74,79,75,77,75
+107,186953,O. Kıvrak,Turkey,Trabzonspor,78,74,67,75,81
+108,115533,D. Benaglio,Switzerland,AS Monaco,76,79,61,79,72
+109,176994,R. Gurtner,France,Amiens SC,78,75,74,75,79
+110,188524,V. Babacan,Turkey,Medipol Ba?ak?ehir FK,77,76,68,79,78
+111,183666,Roberto,Spain,RCD Espanyol,78,71,75,76,80
+112,201095,A. Marches?n,Argentina,Club Am?rica,73,74,74,79,81
+113,189324,A. McCarthy,England,Southampton,78,76,64,77,81
+114,191628,L. Chichizola,Argentina,Getafe CF,78,77,68,74,79
+115,139668,F. Marchetti,Italy,Genoa,76,76,65,77,78
+116,199575,Jordi Masip,Spain,Real Valladolid CF,79,76,76,74,78
+117,187570,Douglas,Brazil,Vit?ria Guimar?es,78,75,72,74,77
+118,215223,W. Ben?tez,Argentina,OGC Nice,76,79,70,78,79
+119,156092,J. Villar,Paraguay,,75,75,74,78,77
+120,140233,G. Ochoa,Mexico,Standard de Li?ge,76,68,75,77,83
+121,137677,M. Vorm,Netherlands,Tottenham Hotspur,78,72,70,73,78
+122,212442,Jos? S?,Portugal,Olympiacos CFP,78,76,68,75,79
+123,194781,Renan Ribeiro,Brazil,Sporting CP,82,75,67,73,78
+124,190209,J. Hopf,Sweden,MKE Ankarag?c?,74,76,73,78,78
+125,220932,L. Kalini?,Croatia,KAA Gent,81,75,42,76,80
+126,146952,Iv?n Cu?llar,Spain,CD Legan?s,74,76,78,73,78
+127,172553,J. L?ssl,Denmark,Huddersfield Town,74,77,67,74,77
+128,200212,M. Esser,Germany,Hannover 96,76,74,69,75,78
+129,211990,O. Vlachodimos,Greece,SL Benfica,79,68,65,74,82
+130,232226,D. Boyko,Ukraine,Dynamo Kyiv,77,69,68,74,78
+131,139062,W. Caballero,Argentina,Chelsea,75,72,71,77,76
+132,14907,A. Bizzarri,Argentina,Foggia,76,74,66,82,76
+133,199493,Diego Mari?o,Spain,Real Sporting de Gij?n,76,72,70,72,79
+134,185181,Yoel,Spain,Real Valladolid CF,75,77,76,74,76
+135,214110,J. Cuadrado,Colombia,Once Caldas,78,72,78,72,78
+136,47201,S. Proto,Belgium,Lazio,75,73,73,78,77
+137,182629,Beto,Portugal,G?ztepe SK,79,69,79,75,75
+138,192358,S. Padt,Netherlands,FC Groningen,78,73,67,74,77
+139,142959,M. Barbosa,Argentina,Villarreal CF,77,73,76,75,77
+140,146296,Andr?s Fern?ndez,Spain,Villarreal CF,80,71,68,72,79
+141,200332,T. Koubek,Czech Republic,Stade Rennais FC,78,76,71,74,76
+142,199833,L. Unnerstall,Germany,VVV-Venlo,76,75,72,74,77
+143,211101,Rub?n Blanco,Spain,RC Celta,79,75,73,76,74
+144,172203,F. Forster,England,Southampton,72,76,64,77,78
+145,230317,Fred An?b?o,Brazil,Atl?tico Paranaense,71,77,76,72,77
+146,230318,Nelsildo Reis,Brazil,Botafogo,76,77,77,76,74
+147,220604,Jaume,Spain,Valencia CF,74,73,73,74,82
+148,207557,R. Olsen,Sweden,Roma,76,74,74,76,77
+149,189908,L. Skorupski,Poland,Bologna,80,75,54,75,81
+150,199641,M. Sels,Belgium,RC Strasbourg Alsace,79,69,70,75,80
+151,163301,J. Orozco,Mexico,Santos Laguna,76,71,82,77,76
+152,243952,A. Lunin,Ukraine,CD Legan?s,74,71,76,77,79
+153,179954,T. Kraft,Germany,Hertha BSC,80,75,60,65,84
+154,201976,A. Gomis,Senegal,SPAL,77,74,70,75,77
+155,199417,H. Tekin,Turkey,Fenerbah?e SK,77,72,72,73,80
+156,181256,M. Koz??ik,Slovakia,Viktoria Plze?,78,71,69,79,74
+157,156433,A. Talavera,Mexico,Deportivo Toluca,80,71,71,72,76
+158,230165,Sim?o Donatinho,Brazil,Cruzeiro,76,70,77,75,75
+159,205849,E. Andrada,Argentina,Boca Juniors,77,71,67,72,78
+160,234777,Z. Steffen,United States,Columbus Crew SC,76,71,72,70,83
+161,107298,Y. Pel?,France,Olympique de Marseille,75,75,67,72,76
+162,191011,L. Sepe,Italy,Parma,74,76,61,73,79
+163,111661,C. Kameni,Cameroon,Fenerbah?e SK,78,76,72,72,75
+164,140082,Rafael,Brazil,Cagliari,76,71,63,76,76
+165,201269,F. Rønnow,Denmark,Eintracht Frankfurt,74,71,66,74,77
+166,158777,P. Tschauner,Germany,Hannover 96,75,74,68,74,77
+167,214076,N. Vikonis,Uruguay,Puebla FC,75,76,68,74,74
+168,49472,L. Butelle,France,Angers SCO,78,74,65,76,74
+169,114764,Iraizoz,Spain,Girona FC,69,77,74,85,67
+170,195668,Joel Robles,Spain,Real Betis,79,70,76,71,78
+171,225116,A. Meret,Italy,Napoli,77,71,66,75,78
+172,200798,Marafona,Portugal,SC Braga,77,73,66,75,76
+173,212067,C. Vargas,Colombia,Deportivo Cali,78,75,65,71,77
+174,170084,W. Hennessey,Wales,Crystal Palace,75,76,81,76,72
+175,183141,Oier,Spain,Levante UD,77,73,69,78,73
+176,165735,B. Jones,Australia,Al Nassr,75,69,69,80,75
+177,49000,A. McGregor,Scotland,Rangers FC,74,72,66,74,79
+178,216939,A. Blake,Jamaica,Philadelphia Union,78,69,67,69,83
+179,240493,A. Paschalakis,Greece,PAOK,80,66,64,70,81
+180,231545,Miguel Silva,Portugal,Vit?ria Guimar?es,77,71,64,73,78
+181,132740,J. Hansen,Denmark,FC Midtjylland,75,70,74,74,77
+182,165769,C?ssio,Brazil,Al Taawoun,77,74,68,73,76
+183,215698,M. Maignan,France,LOSC Lille,75,72,72,76,76
+184,152211,R. ?zcan,Austria,Bayer 04 Leverkusen,73,71,71,76,75
+185,202410,Serantes,Spain,CD Legan?s,80,72,74,71,76
+186,189357,C. Toselli,Chile,CD Everton de Vi?a del Mar,75,74,69,76,76
+187,200110,M. Bizot,Netherlands,AZ Alkmaar,79,72,63,71,76
+188,206003,Y. Mvogo,Switzerland,RB Leipzig,79,73,70,69,78
+189,230323,Ka?qu?o Castro,Brazil,Fluminense,77,76,61,72,73
+190,221130,Y. Cardinale,France,OGC Nice,76,72,75,73,78
+191,217805,A. Mart?n Arias,Argentina,Gimnasia y Esgrima La Plata,81,68,76,73,77
+192,182736,Ricardo,Portugal,GD Chaves,78,74,63,75,74
+193,215251,G. Herrera,Argentina,Club Atl?tico Talleres,74,73,70,74,77
+194,169181,K. Vermeer,Netherlands,Feyenoord,78,65,69,77,80
+195,206075,S. Johnstone,England,West Bromwich Albion,76,74,70,73,77
+196,156412,J. Corona,Mexico,Cruz Azul,72,77,68,78,73
+197,192009,J. Rodr?guez,Mexico,Lobos BUAP,77,71,66,75,73
+198,189707,Da Costa,Brazil,Bologna,75,72,64,75,75
+199,200463,T. Melia,United States,Sporting Kansas City,74,68,75,77,76
+200,143632,V. Demirel,Turkey,Fenerbah?e SK,75,71,75,72,73
+201,215069,R. Rey,Argentina,PAOK,76,70,69,75,78
+202,163873,Eduardo,Portugal,Vitesse,73,73,71,76,73
+203,173857,M. And?jar,Argentina,Estudiantes de La Plata,73,73,62,75,77
+204,144172,S. Kırıntılı,Turkey,Atiker Konyaspor,74,72,68,73,76
+205,186680,Ra?l Fern?ndez,Spain,UD Las Palmas,75,74,62,77,73
+206,186681,Alberto,Spain,Rayo Vallecano,76,72,71,72,74
+207,177475,T. Sippel,Germany,Borussia M?nchengladbach,75,69,79,70,78
+208,204367,B. van Leer,Netherlands,NAC Breda,72,77,65,72,75
+209,205409,S. Sosa,Uruguay,Monarcas Morelia,74,70,65,74,76
+210,219754,Bruno Varela,Portugal,SL Benfica,76,70,63,74,78
+211,179820,L. Robles,United States,New York Red Bulls,75,71,70,73,77
+212,205942,S. Lung,Romania,Kayserispor,74,71,69,73,74
+213,105846,A. Boruc,Poland,Bournemouth,74,73,62,76,74
+214,53110,C. Gordon,Scotland,Celtic,75,71,67,70,77
+215,205186,P. Gazzaniga,Argentina,Tottenham Hotspur,76,73,84,72,76
+216,192397,Rafael,Brazil,Sampdoria,75,73,71,73,74
+217,219793,T. Didillon,France,RSC Anderlecht,75,72,72,75,76
+218,210327,A. Gianniotis,Greece,Olympiacos CFP,77,70,65,70,77
+219,189084,E. Room,Curacao,PSV,75,74,69,70,76
+220,239272,V. Barkas,Greece,AEK Athens,72,72,74,74,75
+221,190120,K. Johnsson,Sweden,En Avant de Guingamp,75,70,76,76,77
+222,162220,S. Bolat,Turkey,Royal Antwerp FC,72,75,76,71,75
+223,230320,Victorino Magela,Brazil,Bahia,71,72,73,75,76
+224,183475,S. Grytebust,Norway,Odense Boldklub,74,70,71,73,79
+225,222900,W. Hahn,Netherlands,SC Heerenveen,75,71,66,68,79
+226,230324,Adrianiscito,Brazil,Gr?mio,68,76,74,77,73
+227,153275,J. Leca,France,Racing Club de Lens,72,69,71,75,77
+228,214979,J. Musso,Argentina,Udinese,74,72,70,75,77
+229,201931,Gabr?el,Brazil,Perugia,77,73,65,69,79
+230,227275,A. Rossi,Argentina,Boca Juniors,72,69,60,76,75
+231,150477,R. Salin,France,Sporting CP,78,64,68,74,79
+232,212432,Cho Hyun Woo,Korea Republic,Daegu FC,75,71,59,74,76
+233,193247,H. Lindner,Austria,Grasshopper Club Z?rich,78,69,64,69,78
+234,212197,D. Heuer Fernandes,Portugal,SV Darmstadt 98,74,72,75,69,77
+235,53739,L. Grant,England,Manchester United,74,72,74,74,76
+236,186098,R. Cota,Mexico,Club Le?n,74,70,67,77,75
+237,148212,A. Rebrov,Russia,Spartak Moscow,74,68,65,78,76
+238,162297,D. Padelli,Italy,Inter,74,74,63,76,74
+239,193786,F. Bardi,Italy,Frosinone,78,73,62,69,77
+240,204549,D. Roef,Belgium,Waasland-Beveren,76,71,65,70,76
+241,150278,J. Drobn?,Czech Republic,SV Werder Bremen,73,74,45,74,74
+242,188938,C. ?lvarez,Argentina,Real Zaragoza,74,71,70,73,75
+243,223249,G. Arias,Chile,Racing Club,74,69,69,74,78
+244,204308,H. Van Crombrugge,Belgium,KAS Eupen,78,71,72,70,73
+245,230170,Jaim Abra,Brazil,Am?rica FC (Minas Gerais),77,71,68,73,74
+246,194333,R. Gikiewicz,Poland,1. FC Union Berlin,73,71,75,72,75
+247,230175,Freder Cabral,Brazil,Atl?tico Mineiro,73,77,69,76,66
+248,110638,Cifuentes,Spain,C?diz CF,69,76,66,79,70
+249,193331,K. Darlow,England,Newcastle United,75,70,64,71,76
+250,205878,S. Kapino,Greece,SV Werder Bremen,74,67,66,72,79
+251,228413,E. Audero,Italy,Sampdoria,78,72,72,73,78
+252,207935,M. Dituro,Argentina,Universidad Cat?lica,72,72,76,71,76
+253,121937,M. Rensing,Germany,Fortuna D?sseldorf,74,73,67,70,75
+254,224599,Yan Junling,China PR,Shanghai SIPG FC,73,71,70,71,76
+255,194904,B. Hamid,United States,DC United,74,70,70,73,74
+256,156253,J. Lewis,England,Aberdeen,77,68,67,71,76
+257,184926,Fabiano,Brazil,FC Porto,75,70,73,74,72
+258,232543,S. Bertoli,Argentina,Patronato,76,73,78,67,71
+259,189024,M. Banguera,Ecuador,,68,70,65,77,77
+260,2147,M. Stekelenburg,Netherlands,Everton,71,72,76,73,73
+261,170597,T. Krul,Netherlands,Norwich City,74,72,68,68,74
+262,157804,S. Carson,England,Derby County,72,70,72,74,73
+263,184436,A. Smithies,England,Cardiff City,76,69,67,74,74
+264,165493,N. Navarro,Argentina,San Lorenzo de Almagro,73,72,68,74,72
+265,215417,C. Mathenia,Germany,1. FC N?rnberg,74,68,66,74,77
+266,207998,D. Ward,Wales,Leicester City,73,72,64,69,75
+267,110974,Riesgo,Spain,SD Eibar,74,76,66,73,70
+268,228736,W. Far??ez,Venezuela,Millonarios FC,73,70,69,74,77
+269,206218,P. Nardi,France,KSV Cercle Brugge,78,67,68,67,77
+270,172939,K. Westwood,Republic of Ireland,Sheffield Wednesday,75,70,70,74,75
+271,178571,Bracali,Brazil,Boavista FC,75,73,60,74,71
+272,176526,L. Buri?n,Uruguay,Club Atl?tico Col?n,71,70,73,73,74
+273,199568,K. Lamprou,Greece,Ajax,78,65,75,65,78
+274,234642,E. Mendy,Senegal,Stade de Reims,72,70,63,72,74
+275,164505,B. Guzan,United States,Atlanta United,73,68,73,72,75
+276,192665,A. Luthe,Germany,FC Augsburg,77,68,61,73,76
+277,205211,M. Borjan,Canada,,75,71,71,73,72
+278,193186,N. Etheridge,Philippines,Cardiff City,74,67,63,74,74
+279,182435,M. Langerak,Australia,Nagoya Grampus,75,73,52,69,76
+280,228777,G. Banguera,Colombia,Atl?tico Huila,75,67,69,71,76
+281,215985,F. Monetti,Argentina,Atl?tico Nacional,74,74,76,70,72
+282,230328,Pierrino Faria,Brazil,Santos,77,65,62,75,76
+283,230330,Nivo Serpinho,Brazil,Chapecoense,72,75,69,73,72
+284,214462,I. Arboleda,Colombia,Club Atl?tico Banfield,76,72,65,69,75
+285,199103,A. Dom?nguez,Ecuador,V?lez Sarsfield,74,66,67,70,74
+286,204234,Edgar Bad?a,Spain,CF Reus Deportiu,77,68,66,74,75
+287,18122,N. Penneteau,France,Sporting de Charleroi,70,76,66,81,66
+288,174542,J. Herrera,Chile,Universidad de Chile,71,71,75,69,75
+289,155344,Shin Hwa Yong,Korea Republic,Suwon Samsung Bluewings,74,67,68,73,76
+290,215250,C. Rigamonti,Argentina,Belgrano de C?rdoba,72,64,63,78,76
+291,204246,M. Bettinelli,England,Fulham,75,71,70,74,77
+292,169697,D. Randolph,Republic of Ireland,Middlesbrough,75,66,66,71,75
+293,190947,D. Jensen,Denmark,FC Utrecht,72,71,79,71,73
+294,203239,Caio Secco,Brazil,CD Feirense,72,70,62,73,75
+295,181481,D. Vukovic,Australia,KRC Genk,73,69,63,73,76
+296,143598,L. Pocrnjic,Argentina,Club Atl?tico Aldosivi,73,71,64,74,73
+297,190459,A. Hansen,Norway,Rosenborg BK,74,67,68,72,77
+298,241671,D. Livakovi?,Croatia,Dinamo Zagreb,72,67,69,76,71
+299,149258,A. Cordaz,Italy,Crotone,68,70,62,72,74
+300,183567,E. Mulder,Netherlands,Swansea City,72,70,80,68,74
+301,148496,A. Malarz,Poland,Legia Warszawa,71,64,62,73,75
+302,163600,J. Ruddy,England,Wolverhampton Wanderers,72,66,73,72,73
+303,175897,S. Ujkani,Kosovo,?aykur Rizespor,73,72,64,72,72
+304,211738,M. Flekken,Netherlands,SC Freiburg,72,71,66,70,74
+305,182043,Zeng Cheng,China PR,Guangzhou Evergrande Taobao FC,72,69,70,73,72
+306,159265,C. Puggioni,Italy,Benevento,73,73,59,70,74
+307,193314,Aitor,Spain,Levante UD,75,69,65,75,71
+308,232229,J. Bijlow,Netherlands,Feyenoord,75,67,76,67,75
+309,121134,A. Walke,Germany,FC Red Bull Salzburg,73,69,73,67,75
+310,222511,E. Unsain,Argentina,Defensa y Justicia,78,66,74,62,77
+311,190769,E. Lamanna,Italy,Spezia,70,72,66,71,74
+312,193336,V. Belec,Slovenia,Sampdoria,73,72,60,71,74
+313,202811,E. Mart?nez,Argentina,Arsenal,73,69,75,70,74
+314,186941,R. Wolf,Germany,Fortuna D?sseldorf,73,69,68,70,72
+315,207683,S. Dioudis,Greece,Panathinaikos FC,76,70,65,68,75
+316,209990,R. Strebinger,Austria,SK Rapid Wien,71,64,62,75,78
+317,243538,K. Letica,Croatia,Club Brugge KV,78,63,64,73,73
+318,185427,O. Nyland,Norway,Aston Villa,73,67,77,73,74
+319,223573,Munir,Morocco,M?laga CF,71,73,68,74,70
+320,233306,D. Henderson,England,Sheffield United,73,70,68,68,74
+321,241247,Su Boyang,China PR,Guizhou Hengfeng FC,72,70,70,73,72
+322,52326,E. Jakupovi?,Switzerland,Leicester City,74,70,70,74,74
+323,184422,L. Ardente,Argentina,San Mart?n de San Juan,70,71,82,74,71
+324,190569,S. Frei,United States,Seattle Sounders FC,74,68,66,71,74
+325,237419,A. Abedzadeh,Iran,Clube Sport Mar?timo,68,71,64,72,75
+326,215414,Daniel Guimar?es,Brazil,CD Nacional,75,66,60,70,74
+327,16254,T. Howard,United States,Colorado Rapids,72,73,72,72,70
+328,211327,M. Goicoechea,Uruguay,Toulouse Football Club,71,72,71,70,72
+329,161663,S. Viera,Uruguay,Junior FC,71,70,67,71,74
+330,192129,K. Nordfeldt,Sweden,Swansea City,71,66,66,74,76
+331,224900,A. Silbeira,Paraguay,,71,70,62,70,72
+332,186511,Ren?,Spain,UD Almer?a,78,70,66,70,71
+333,220048,S. Scuffet,Italy,Udinese,72,68,60,70,80
+334,221584,J. Rinne,Sweden,Aalborg BK,72,68,72,69,75
+335,223898,P. Bernardoni,France,N?mes Olympique,72,73,70,74,74
+336,189342,C. Pinsoglio,Italy,Juventus,74,70,58,74,76
+337,193182,W. Foderingham,England,Rangers FC,73,69,72,69,76
+338,190113,M. G?nok,Turkey,Medipol Ba?ak?ehir FK,70,69,68,75,74
+339,225701,P. Gallese,Peru,Tiburones Rojos de Veracruz,74,66,68,69,71
+340,221610,D. Dibusz,Hungary,,73,67,70,70,74
+341,215212,G. Sara,Argentina,Club Atl?tico Lan?s,72,70,73,69,74
+342,214190,L. Castellanos,Colombia,Independiente Santa Fe,72,75,59,69,72
+343,182959,A. Hru?ka,Czech Republic,Viktoria Plze?,68,69,74,70,75
+344,224440,J. Pollersbeck,Germany,Hamburger SV,75,66,71,70,75
+345,199101,Ra?l Lizoain,Spain,AD Alcorc?n,72,74,61,72,71
+346,143306,T. Zengin,Turkey,Be?ikta? JK,72,74,46,76,74
+347,148684,A. Al Habsi,Oman,Al Hilal,74,58,71,73,79
+348,146637,Dani Gim?nez,Spain,Deportivo de La Coru?a,71,67,69,71,77
+349,217813,G. Lajud,Mexico,Club Tijuana,72,66,63,73,75
+350,230869,Unai Sim?n,Spain,Athletic Club de Bilbao,72,73,62,74,72
+351,176345,Kwoun Sun Tae,Korea Republic,Kashima Antlers,72,70,65,72,71
+352,200159,S. Ortega,Germany,DSC Arminia Bielefeld,74,66,74,69,77
+353,155871,B. Białkowski,Poland,Ipswich Town,69,71,68,74,73
+354,32740,J. Wiland,Sweden,Hammarby IF,66,76,68,78,67
+355,188400,T. Kaminski,Belgium,KV Kortrijk,72,72,67,69,75
+356,167666,J. Carrizo,Argentina,Monterrey,74,68,72,72,73
+357,164853,A. Federici,Australia,Stoke City,72,69,77,70,71
+358,101880,R. Green,England,Chelsea,73,70,60,72,74
+359,232441,M. Higashiguchi,Japan,Gamba Osaka,71,72,75,70,70
+360,167931,R. Elliot,Republic of Ireland,Newcastle United,73,69,76,71,74
+361,222464,Sivera,Spain,Deportivo Alav?s,70,69,66,74,71
+362,224003,Sergio Herrera,Spain,CA Osasuna,71,72,70,68,70
+363,180739,E. Kawashima,Japan,RC Strasbourg Alsace,73,65,71,67,77
+364,216325,A. Gunn,England,Southampton,70,71,69,67,75
+365,168965,R. Riou,France,Sporting de Charleroi,71,70,73,70,70
+366,176389,Jung Sung Ryong,Korea Republic,Kawasaki Frontale,70,66,78,69,72
+367,159520,N. Fern?ndez,Argentina,Uni?n de Santa Fe,66,72,62,79,70
+368,226085,L?o Jardim,Brazil,Rio Ave FC,76,68,67,66,72
+369,185129,P. Glykos,Greece,PAOK,72,64,67,68,75
+370,106795,G. Pegolo,Italy,Sassuolo,71,68,60,71,72
+371,138798,G. Lux,Argentina,River Plate,70,67,75,71,72
+372,148526,P. Kieszek,Poland,M?laga CF,73,67,71,66,72
+373,215086,B. Cort?s,Chile,Colo-Colo,71,70,69,70,73
+374,217646,S. Nishikawa,Japan,Urawa Red Diamonds,73,68,75,70,76
+375,241976,Tiago S?,Portugal,SC Braga,71,70,68,72,71
+376,211515,P. Gollini,Italy,Atalanta,73,61,63,71,76
+377,223550,J. Omlin,Switzerland,FC Basel 1893,72,68,69,68,73
+378,197439,F. Wiedwald,Germany,Eintracht Frankfurt,76,63,70,65,76
+379,205122,Adriano Facchini,Brazil,Al Batin,72,69,61,73,72
+380,156483,C. Lucchetti,Argentina,Atl?tico Tucum?n,71,68,75,64,75
+381,224836,V. Milinkovi?-Savi?,Serbia,SPAL,70,69,77,70,71
+382,209483,M. Hassen,Tunisia,OGC Nice,75,65,65,68,75
+383,185172,V. Fiorillo,Italy,Pescara,71,68,64,68,74
+384,219736,E. Horvath,United States,Club Brugge KV,76,65,63,68,77
+385,222562,R. R?narsson,Iceland,Dijon FCO,72,69,73,71,72
+386,194916,Ant?nio Filipe,Portugal,GD Chaves,70,72,65,70,71
+387,192613,C. Pantilimon,Romania,Nottingham Forest,68,69,66,73,74
+388,169321,M. Fraga,Mexico,U.N.A.M.,70,71,74,72,71
+389,186990,H. Gonz?lez,Mexico,Club Necaxa,74,70,69,71,71
+390,197233,A. Diallo,Senegal,Stade Rennais FC,70,68,65,72,71
+391,232562,K. Nakamura,Japan,Kashiwa Reysol,76,59,68,63,79
+392,216692,S. Torrico,Argentina,San Lorenzo de Almagro,68,69,70,74,69
+393,202873,K. M?ller,Germany,1. FC Heidenheim 1846,70,68,59,70,74
+394,164484,J. Dahlin,Sweden,Malm? FF,68,69,71,69,73
+395,176772,A. Oukidja,Algeria,FC Metz,73,67,62,70,76
+396,189061,S. Burchert,Germany,SpVgg Greuther F?rth,71,69,68,71,70
+397,229255,Charles,Brazil,Clube Sport Mar?timo,72,68,63,70,74
+398,189586,Dani Hern?ndez,Venezuela,CD Tenerife,73,70,60,71,69
+399,211348,S. Dimitrievski,FYR Macedonia,Rayo Vallecano,72,71,67,72,71
+400,192922,O. Jim?nez,Mexico,Club Am?rica,74,68,68,71,72
+401,194730,Juan Carlos,Spain,CD Lugo,74,66,67,69,75
+402,230319,Andr? Milazisco,Brazil,Atl?tico Paranaense,77,61,62,64,77
+403,142258,S. Bossut,Belgium,SV Zulte-Waregem,72,70,65,71,71
+404,188597,E. Zelazny,France,Stade Malherbe Caen,74,68,60,73,74
+405,210358,A. Brignoli,Italy,Palermo,70,72,72,68,72
+406,224953,Andr? Moreira,Portugal,Aston Villa,68,76,68,65,73
+407,224442,B. Kamara,France,RC Strasbourg Alsace,76,67,63,68,74
+408,230332,Wiliam Santinho,Brazil,Fluminense,61,77,76,70,73
+409,188094,J. McLaughlin,Scotland,Sunderland,70,73,72,72,69
+410,158657,T. Kessler,Germany,1. FC K?ln,72,69,67,70,71
+411,164041,Nauzet,Spain,UD Las Palmas,69,77,61,67,68
+412,222411,J. Prior,France,FC Girondins de Bordeaux,72,69,73,69,72
+413,198350,D. Bentley,England,Brentford,73,66,63,71,74
+414,215502,B. Dr?gowski,Poland,Fiorentina,68,68,70,71,74
+415,139727,F. Boeckx,Belgium,RSC Anderlecht,69,71,78,70,71
+416,220624,L. Acosta,Argentina,Belgrano de C?rdoba,70,72,67,67,73
+417,238033,F. Nita,Romania,Sparta Praha,71,67,58,76,72
+418,140498,D. Marshall,Scotland,Hull City,70,69,66,72,71
+419,221912,Kang Hyeon Mu,Korea Republic,Pohang Steelers,71,66,63,69,74
+420,224987,I. Provedel,Italy,Empoli,72,68,62,70,74
+421,189920,R. K?se,Turkey,Kasimpa?a SK,74,67,57,74,75
+422,16097,N. Rimando,United States,Real Salt Lake,71,69,69,70,73
+423,212710,Joel Pereira,Portugal,Vit?ria de Set?bal,69,74,65,69,72
+424,210923,M. Al Owais,Saudi Arabia,Al Ahli,70,72,66,71,68
+425,163056,N. Champagne,Argentina,Real Oviedo,70,68,66,72,71
+426,186355,E. Conde,Uruguay,,71,72,62,71,70
+427,205812,P. Terracciano,Italy,Empoli,72,67,64,69,75
+428,233974,Nathael Silbeira,Brazil,Cruzeiro,61,73,69,73,70
+429,176630,Marco Rocha,Portugal,Santa Clara,68,67,65,69,74
+430,189430,S. Colombi,Italy,Carpi,72,69,53,69,76
+431,182520,M. M?nnel,Germany,FC Erzgebirge Aue,74,70,59,65,76
+432,233977,Eduardo Fonseira,Brazil,Botafogo,71,70,74,72,69
+433,140029,O. P?rez,Mexico,Pachuca,70,64,65,73,74
+434,193277,J. Siebenhandl,Austria,SK Sturm Graz,69,68,75,69,74
+435,186882,P. ?teinbors,Latvia,Arka Gdynia,72,65,65,71,74
+436,162052,D. Ousted,Denmark,DC United,69,71,66,68,69
+437,138247,K. Stuhr-Ellegaard,Denmark,IF Elfsborg,66,71,68,71,66
+438,197641,B. Leroy,France,AC Ajaccio,71,67,61,69,69
+439,190734,G. Makaridze,Georgia,Rio Ave FC,75,67,56,68,73
+440,209423,M. Michel,France,AJ Auxerre,70,69,65,67,72
+441,161807,M. Kelemen,Slovakia,Jagiellonia Białystok,68,68,66,69,68
+442,233999,Jairo Farnias,Brazil,Internacional,64,68,69,68,75
+443,156437,P. Pentke,Germany, SSV Jahn Regensburg,72,65,66,68,72
+444,230169,Victor Fachinhas,Brazil,Cear? Sporting Club,69,73,58,63,74
+445,204062,D. Keet,South Africa,,72,69,68,67,71
+446,209957,J. Busk,Denmark,1. FC Union Berlin,73,62,67,66,75
+447,208679,R. Himmelmann,Germany,FC St. Pauli,65,64,61,70,77
+448,205352,J. Archer,Scotland,Millwall,72,70,70,70,71
+449,235312,Alfonso Herrero,Spain,Real Oviedo,69,70,66,67,73
+450,197689,A. Seculin,Italy,Chievo Verona,73,67,57,63,79
+451,190780,S. Johnson,United States,New York City FC,72,64,64,69,75
+452,51261,B. Myhill,Wales,West Bromwich Albion,72,70,69,69,68
+453,185405,D. Kuciak,Slovakia,Lechia Gda?sk,73,64,61,71,74
+454,175934,K. Steppe,Belgium,Sint-Truidense VV,72,67,64,69,71
+455,209987,M. Schuhen,Germany,SV Sandhausen,69,67,68,68,70
+456,229444,F. De Paul,Chile,Universidad de Chile,72,68,62,71,73
+457,20551,A. Isaksson,Sweden,Djurg?rdens IF,69,65,58,71,75
+458,187208,A. Sald?var,Mexico,U.N.A.M.,70,69,70,69,70
+459,184139,Ricardo Ferreira,Portugal,Portimonense SC,73,71,63,66,71
+460,201299,N. Leali,Italy,Perugia,72,70,58,64,73
+461,215123,A. Aguerre,Argentina,Newell's Old Boys,68,70,63,68,70
+462,211033,L. Garc?a,Mexico,Deportivo Toluca,71,71,67,70,70
+463,215130,N. Ib??ez,Argentina,Newell's Old Boys,75,65,76,67,72
+464,179547,V. Mannone,Italy,Reading,67,69,69,69,69
+465,105308,J. Gillet,Belgium,Standard de Li?ge,66,72,69,75,69
+466,223071,F. Pellegrino,Argentina,Club Atl?tico Hurac?n,68,76,57,71,69
+467,244584,O. Shevchenko,Ukraine,Shakhtar Donetsk,69,66,73,71,71
+468,178283,R. Boffin,Belgium,Antalyaspor,68,65,70,68,74
+469,219244,D. von Ballmoos,Switzerland,BSC Young Boys,71,69,68,68,72
+470,166764,T. Carson,Northern Ireland,Motherwell,71,65,67,68,75
+471,142962,E. Bologna,Argentina,River Plate,70,68,60,70,70
+472,227186,A. Batalla,Argentina,Club Atl?tico Tigre,72,64,68,64,75
+473,194934,Dani Jim?nez,Spain,AD Alcorc?n,72,67,63,67,71
+474,200059,C. Coosemans,Belgium,KAA Gent,71,64,71,68,73
+475,223107,M. Yıldırım,Turkey,Kayserispor,70,67,62,70,70
+476,178566,J. Garc?a,Argentina,Racing Club,74,62,74,67,76
+477,199574,A. Letellier,France,ESTAC Troyes,67,69,61,67,73
+478,212632,W. Dutoit,France,KV Oostende,71,67,66,70,72
+479,186781,K. Kronholm,United States,Holstein Kiel,74,64,62,68,73
+480,244384,A. Rudko,Ukraine,Dynamo Kyiv,67,68,66,70,72
+481,215213,A. Werner,Argentina,SD Huesca,74,72,75,68,70
+482,235183,C. Acevedo,Mexico,Santos Laguna,71,67,69,70,71
+483,209333,C. Maxwell,Wales,Preston North End,69,68,70,68,72
+484,142775,A. Ori?n,Argentina,Colo-Colo,69,68,68,71,70
+485,140483,L. Mazzoni,Italy,Livorno,69,68,73,75,66
+486,193222,F. Giefer,Germany,FC Augsburg,73,64,58,71,72
+487,229325,O. Linn?r,Sweden,AIK,69,69,67,72,70
+488,184781,D. Petri?,Serbia,En Avant de Guingamp,71,62,59,71,73
+489,224977,A. Micai,Italy,US Salernitana 1919,68,69,62,67,74
+490,209874,B. Khuzwayo,South Africa,Orlando Pirates,72,71,73,68,72
+491,212948,F. Ondoa,Cameroon,KV Oostende,74,63,62,70,78
+492,206549,E. Bush,United States,Montreal Impact,72,65,63,68,72
+493,209109,J. Silbeira,Paraguay,,71,68,60,68,72
+494,206561,C. Walton,England,Wigan Athletic,72,69,67,68,72
+495,220901,David Raya,Spain,Blackburn Rovers,68,72,61,67,71
+496,226285,R. Gudi?o,Mexico,Guadalajara,72,68,60,65,73
+497,188657,D. Rudd,England,Preston North End,74,65,64,65,73
+498,208375,M. M?ller,Germany,RB Leipzig,69,68,65,66,73
+499,203004,Yang Han Been,Korea Republic,FC Seoul,71,64,62,70,74
+500,177152,P. Velthuizen,Netherlands,AZ Alkmaar,68,67,71,69,70
+501,214274,J. Chunga,Colombia,Junior FC,76,63,69,63,71
+502,176645,Z. Zl?mal,Czech Republic,Heart of Midlothian,68,69,69,72,72
+503,162054,M. Bunn,England,Aston Villa,68,69,74,68,69
+504,193030,M. Luka?,Serbia,Akhisar Belediyespor,67,68,58,71,71
+505,184585,A. Bogd?n,Hungary,Hibernian,70,66,66,69,70
+506,128529,U. Ceylan,Turkey,Alanyaspor,70,69,63,70,68
+507,230164,Luciano Cacheira,Brazil,Paran?,76,62,77,55,76
+508,196885,C. Lampe,Bolivia,Boca Juniors,66,71,62,68,70
+509,169493,F. Fielding,England,Bristol City,67,67,60,66,74
+510,236823,I. Pettersson,Sweden,IFK Norrk?ping,70,66,72,66,75
+511,162328,R. Pasveer,Netherlands,Vitesse,67,68,72,68,67
+512,190745,M. Silvestri,Italy,Hellas Verona,78,60,55,66,76
+513,178211,R. Zwinkels,Netherlands,ADO Den Haag,67,65,67,75,69
+514,212518,B. Sangar?,Ivory Coast,,73,67,63,67,68
+515,138026,D. Verhulst,Belgium,Sporting Lokeren,68,67,68,66,72
+516,206379,H. Halld?rsson,Iceland,,70,62,62,69,71
+517,233267,M. Turner,United States,New England Revolution,70,69,69,72,73
+518,207926,A. Linde,Sweden,Molde FK,72,66,65,67,72
+519,214582,C. Bonilla,Colombia,Al Fayha,71,68,65,64,73
+520,232505,T. Hayashi,Japan,Sanfrecce Hiroshima,68,70,60,70,69
+521,222779,L. Choutesiotis,Greece,Olympiacos CFP,72,65,60,66,74
+522,204092,J. Blaswich,Germany,Heracles Almelo,70,70,67,65,77
+523,229692,J. Huth,Germany,1. FSV Mainz 05,70,65,74,66,72
+524,149309,A. Rosati,Italy,Torino,68,69,46,70,68
+525,158784,J. Carranza,Argentina,San Martin de Tucum?n,65,71,71,66,69
+526,206145,B. Uphoff,Germany,Karlsruher SC,69,67,68,66,71
+527,194372,E. Ta?kıran,Turkey,Atiker Konyaspor,68,67,66,67,68
+528,213573,M. Gersbeck,Germany,Hertha BSC,67,70,58,67,72
+529,234054,C. C?ceda,Peru,,69,69,65,71,72
+530,230727,G. Larsonneur,France,Stade Brestois 29,70,66,67,67,71
+531,211021,P. Br?tveit,Norway,FK Haugesund,71,64,64,68,69
+532,193359,R. Romo,Venezuela,,65,63,61,69,73
+533,234833,F. M?ller,Germany,1. FSV Mainz 05,69,67,67,68,71
+534,222546,L. Zingerle,Germany,SC Paderborn 07,68,67,65,67,71
+535,189267,D. Bernhardt,Germany,VfR Aalen,68,69,67,68,73
+536,101473,T. Kuszczak,Poland,Birmingham City,70,64,63,69,70
+537,177508,P. Klandt,Germany,1. FC N?rnberg,69,68,64,67,70
+538,173415,M. Knaller,Austria,FC Ingolstadt 04,68,70,49,67,72
+539,9833,D. Boer,Netherlands,PEC Zwolle,64,72,52,77,64
+540,235629,O. De Wolf,Belgium,Sporting Lokeren,67,70,76,69,71
+541,198511,Mika,Portugal,Os Belenenses,71,66,67,69,71
+542,216175,C. Stankovi?,Austria,FC Red Bull Salzburg,74,67,60,64,72
+543,223603,F. Bredlow,Germany,1. FC N?rnberg,71,68,60,64,71
+544,234102,I. Radu,Romania,Genoa,73,63,69,69,74
+545,150659,V. Demarconnay,France,Paris FC,71,65,66,67,71
+546,170632,J. MacDonald,Scotland,Kilmarnock,72,65,65,66,72
+547,234898,S. Chernik,Belarus,AS Nancy Lorraine,68,69,66,68,71
+548,210579,P. Reulet,France,Stade Malherbe Caen,72,68,67,69,71
+549,203423,L. Thomas,Australia,Melbourne Victory,69,65,64,66,70
+550,231073,B. Radunovi?,Serbia,US Cremonese,70,69,64,70,72
+551,135587,N. M?enp??,Finland,Bristol City,70,69,65,66,66
+552,229541,A. Montero,Colombia,Deportes Tolima,70,67,61,66,72
+553,204966,Adri?n Ortol?,Spain,Deportivo de La Coru?a,71,67,72,69,68
+554,214440,D. Melo,Chile,CD Palestino,66,69,60,65,72
+555,230314,Ka?que Mutto,Brazil,Atl?tico Mineiro,79,55,66,55,83
+556,199339,M. Riemann,Germany,VfL Bochum 1848,67,64,71,65,74
+557,230315,Ailton Cardenhas,Brazil,Santos,68,70,70,76,69
+558,214703,D. S?nchez,Chile,Uni?n Espa?ola,72,68,68,63,70
+559,201138,Z. Boucher,France,Angers SCO,70,65,71,67,73
+560,209332,M. Salvi,Switzerland,FC Luzern,70,69,64,66,70
+561,116917,D. Perquis,France,Valenciennes FC,66,68,64,70,71
+562,205496,Nicolas,Brazil,Udinese,71,69,64,67,71
+563,218298,S. Allagb?,Benin,Chamois Niortais Football Club,71,68,69,68,72
+564,165564,A. Kwarasey,Ghana,V?lerenga Fotball,66,70,67,66,69
+565,169404,J. Fejzi?,Bosnia Herzegovina,1. FC Magdeburg,71,66,60,67,75
+566,181694,J. Carrasso,France,Stade de Reims,67,73,66,70,66
+567,213951,Helton Leite,Brazil,Boavista FC,71,65,66,65,71
+568,182207,D. Stockdale,England,Birmingham City,68,64,75,66,72
+569,183743,A. Blanco,Mexico,Pachuca,66,69,65,68,71
+570,213952,Bruno Br?gido,Brazil,CD Feirense,71,67,68,64,74
+571,213954,A. Mitryushkin,Russia,FC Sion,72,64,66,69,71
+572,187591,P. Garc?s,Chile,CD Antofagasta,70,66,71,69,69
+573,192201,P. Abrahamsson,Sweden,BK H?cken,69,69,67,68,68
+574,223690,S. Rochet,Uruguay,Sivasspor,73,63,65,63,76
+575,159436,R. Zapata,Colombia,Independiente Santa Fe,66,70,69,71,64
+576,169423,S. Ekramy,Egypt,,65,69,77,64,79
+577,201936,Kim Jin Hyeon,Korea Republic,Cerezo Osaka,69,66,67,70,69
+578,182224,Wang Dalei,China PR,Shandong Luneng TaiShan FC,69,68,76,65,70
+579,210385,Rui Silva,Portugal,Granada CF,71,65,61,66,69
+580,166097,F. ?zt?rk,Turkey,Akhisar Belediyespor,70,67,64,68,70
+581,182743,T. Kirschbaum,Germany,Bayer 04 Leverkusen,72,67,68,62,71
+582,183513,J. Grahl,Germany,VfB Stuttgart,72,64,60,65,73
+583,193244,B. Shuttleworth,United States,Minnesota United FC,70,67,66,66,69
+584,223709,A. Vural,Turkey,Sivasspor,72,63,61,68,74
+585,199904,J. Joronen,Finland,FC København,72,68,62,69,70
+586,204513,M. Dup?,France,FC Nantes,69,70,60,64,70
+587,213729,S. Rossbach,Norway,Odds BK,69,67,65,67,71
+588,190435,Tomeu Nadal,Spain,Albacete BP,64,72,67,69,68
+589,230117,Jhonatan,Brazil,Moreirense FC,68,68,70,65,73
+590,239846,P. Tsintotas,Greece,AEK Athens,70,70,68,59,73
+591,208616,Isaac Becerra,Spain,Gimn?stic de Tarragona,73,66,63,62,71
+592,184040,M. Hansen,Denmark,FC Basel 1893,68,66,65,70,67
+593,211946,M. Kolke,Germany,SV Wehen Wiesbaden,70,64,60,67,74
+594,193772,A. Kov?csik,Hungary,,69,64,63,71,75
+595,234994,Rat?n,Spain,Real Zaragoza,65,70,69,69,68
+596,244467,O. Kol??,Czech Republic,SK Slavia Praha,66,68,75,66,68
+597,190195,M. Samassa,Mali,ESTAC Troyes,70,64,68,63,75
+598,224251,R. Zentner,Germany,1. FSV Mainz 05,67,67,61,68,73
+599,228860,H. Jurjus,Netherlands,De Graafschap,72,64,65,65,73
+600,182270,W. Sandilands,South Africa,Orlando Pirates,66,73,67,70,68
+601,189952,K. ?elikay,Turkey,MKE Ankarag?c?,70,67,62,66,70
+602,194050,M. Gr?n,Germany,SV Darmstadt 98,70,66,64,68,67
+603,205068,Cristiano,Portugal,Vit?ria de Set?bal,65,68,64,73,65
+604,236301,Koke Vegas,Spain,Levante UD,72,69,60,65,66
+605,233998,M?rcio Velinha,Brazil,Chapecoense,69,62,75,65,73
+606,239120,F. Uzoho,Nigeria,Elche CF,66,70,71,69,67
+607,202770,C. Ripley,England,Accrington Stanley,69,69,67,68,70
+608,183315,D. Gonz?lez,Colombia,Independiente Medell?n,66,69,66,71,66
+609,171033,M. Andersen,Denmark,FC Midtjylland,68,66,59,70,69
+610,202778,E. ?zbir,Turkey,Yeni Malatyaspor,68,66,64,68,68
+611,186655,J. Carvallo,Peru,,73,67,69,68,61
+612,144160,T. Acar,Turkey,Sivasspor,64,64,67,59,78
+613,228130,Oh Seung Hoon,Korea Republic,Ulsan Hyundai FC,68,64,62,70,69
+614,244258,D. Zagorac,Croatia,Dinamo Zagreb,66,69,65,67,69
+615,172837,E. Alfonso,Italy,Brescia,66,68,56,66,70
+616,234790,Soriano,Spain,Sevilla FC,71,66,63,62,71
+617,199721,M. Gorgelin,France,Olympique Lyonnais,73,64,66,62,71
+618,204842,Y. Brecher,Switzerland,FC Z?rich,70,59,72,68,72
+619,188202,Y. Thoelen,Belgium,KAA Gent,67,68,64,67,69
+620,193578,T. Deric,United States,Houston Dynamo,65,63,66,67,77
+621,210476,M. Kuster,Austria,SV Mattersburg,67,70,62,65,66
+622,220720,A. Fulignati,Italy,Empoli,70,63,65,68,69
+623,217649,S. Gonda,Japan,Sagan Tosu,66,67,62,66,69
+624,198962,R. M'Bolhi,Algeria,Ettifaq FC,70,63,62,62,76
+625,205874,F. Kaplan,Turkey,Antalyaspor,63,68,70,68,67
+626,146996,Rub?n,Spain,CA Osasuna,70,68,71,66,65
+627,202810,S. McDermott,Republic of Ireland,Kristiansund BK,68,64,57,67,69
+628,49212,J. Speroni,Argentina,Crystal Palace,70,67,62,66,69
+629,185149,J. Koprivec,Slovenia,,69,65,60,68,72
+630,219969,A. Vasyutin,Russia,Sarpsborg 08 FF,69,64,64,66,71
+631,206402,M. Putnock?,Slovakia,Lech Pozna?,71,68,63,69,68
+632,233282,Yoon Bo Sang,Korea Republic,Sangju Sangmu FC,68,67,65,64,70
+633,205894,P. Iliev,Bulgaria,,69,60,67,70,75
+634,208968,F. Al Qarni,Saudi Arabia,Al Ittihad,69,63,66,66,72
+635,205386,G. Hubert,Belgium,Club Brugge KV,71,68,66,63,69
+636,206412,M. Koval,Ukraine,Al Fateh,68,65,67,69,72
+637,214351,D. Novoa,Colombia,La Equidad,64,76,73,68,64
+638,214355,R. J?rez,Guatemala,Alianza Petrolera,67,69,65,69,67
+639,18771,L. Steele,England,Nottingham Forest,68,66,63,66,71
+640,227163,P. Mina,Colombia,Deportivo Cali,71,69,65,62,73
+641,204380,J. Brinkies,Germany,FSV Zwickau,67,65,65,70,73
+642,207708,F?bio,Brazil,CD Aves,74,64,58,67,70
+643,183391,G. Ndy Assembe,Cameroon,AS Nancy Lorraine,70,69,68,66,69
+644,193889,M. Vidal,France,Toulouse Football Club,69,68,68,69,67
+645,218216,F. Ben Mustapha,Tunisia,Al Shabab,68,68,60,69,66
+646,209002,M. Sayouba,Ivory Coast,Odense Boldklub,70,64,64,65,73
+647,222572,Iv?n Villar,Spain,RC Celta,71,63,65,65,71
+648,188017,A. Pomini,Italy,Palermo,67,64,60,70,71
+649,186998,W. Yarbrough,United States,Club Le?n,67,62,70,68,68
+650,197496,Y. Al Mosailem,Saudi Arabia,Al Ahli,66,71,64,72,64
+651,204922,A. Leitner,Austria,FC Admira Wacker M?dling,68,66,59,66,70
+652,173178,Manolo Reina,Spain,RCD Mallorca,66,68,62,69,66
+653,163201,M. McGovern,Northern Ireland,Norwich City,69,65,64,68,69
+654,219522,J. Ledesma,Argentina,Rosario Central,68,65,63,65,71
+655,135043,A. Lindegaard,Denmark,Burnley,69,70,69,65,68
+656,202630,A. Kochenkov,Russia,Lokomotiv Moscow,65,66,67,67,71
+657,208782,M. van der Hart,Netherlands,PEC Zwolle,73,60,69,65,72
+658,205455,A. Weis,Germany, SSV Jahn Regensburg,71,66,63,59,74
+659,234383,M. Schubert,Germany,SG Dynamo Dresden,71,66,58,62,74
+660,210832,M. Branderhorst,Netherlands,Willem II,70,64,62,65,72
+661,231056,S. Marinovi?,New Zealand,Vancouver Whitecaps FC,68,70,61,65,68
+662,125586,S. Andersen,Denmark,FC København,65,66,67,69,67
+663,140181,H. Sogahata,Japan,Kashima Antlers,69,66,68,68,73
+664,142998,C. Mu?oz,Argentina,CD Universidad de Concepci?n,67,65,68,71,68
+665,194198,J. Delle,France,Feyenoord,68,67,64,67,69
+666,228505,P. Pentz,Austria,FK Austria Wien,65,66,74,68,72
+667,222876,J. Smith,England,Nottingham Forest,68,63,55,64,73
+668,202910,D. Mitov Nilsson,FYR Macedonia,IFK Norrk?ping,72,59,70,61,77
+669,244385,G. Bushchan,Ukraine,Dynamo Kyiv,68,60,70,68,71
+670,209830,Q. Beunardeau,France,CD Aves,71,64,58,64,71
+671,172198,J. Moulin,France,AS Saint-?tienne,70,70,65,66,70
+672,191655,Kim Seung Gyu,Korea Republic,Vissel Kobe,64,67,66,70,67
+673,214187,C. Bejarano,Equatorial Guinea,Am?rica de Cali,72,65,59,62,70
+674,231596,J. Contreras,Venezuela,La Berrichonne de Ch?teauroux,68,66,65,67,71
+675,182451,Cheng Yuelei,China PR,Guangzhou R&F; FC,67,67,69,69,64
+676,114356,M. W?lfli,Switzerland,BSC Young Boys,72,61,72,67,67
+677,200629,A. Santurro,Italy,Bologna,70,64,68,68,72
+678,223686,T. Wellenreuther,Germany,Willem II,71,62,60,66,69
+679,176583,L. ?lvarez,Uruguay,Rionegro ?guilas,72,70,59,67,69
+680,214730,I. Gonz?lez,Chile,San Luis de Quillota,66,65,61,67,72
+681,146636,Jos? Juan,Spain,Elche CF,77,64,66,62,65
+682,190669,O. Jansson,Sweden,?rebro SK,70,63,64,67,70
+683,170448,J. Zimmermann,Germany,Eintracht Frankfurt,68,67,60,68,69
+684,139476,D. Gerken,England,Ipswich Town,69,66,66,65,70
+685,223957,L. Pirard,Belgium,Sint-Truidense VV,69,68,64,64,71
+686,171992,Juan Carlos,Spain,CD Numancia,70,60,59,63,73
+687,197851,A. Hayashi,Japan,FC Tokyo,69,73,62,63,71
+688,173531,B. Amos,England,Millwall,65,68,70,65,71
+689,173533,D. Button,England,Brighton & Hove Albion,71,69,58,65,69
+690,234462,H. Yılmaz,Turkey,Alanyaspor,68,65,60,68,70
+691,198625,S. Bain,Scotland,Celtic,66,68,68,63,72
+692,226786,A. Bono,United States,Toronto FC,69,66,66,66,70
+693,242146,C. Gonzalez,Chile,Uni?n La Calera,66,67,66,67,67
+694,229091,B. Peacock-Farrell,Northern Ireland,Leeds United,70,65,70,62,71
+695,222951,M. Rod?k,Slovakia,Rotherham United,69,68,70,66,69
+696,226542,D. Mart?nez,Colombia,Patriotas Boyac? FC,67,65,71,67,69
+697,234735,A. Jovanovi?,Serbia,SD Huesca,69,65,65,68,67
+698,189936,R. Ruiter,Netherlands,Sunderland,68,64,67,69,68
+699,156920,O. Werner,Belgium,Royal Excel Mouscron,71,63,66,66,70
+700,193272,S. ?ahin-Radlinger,Austria,SK Brann,70,62,59,68,71
+701,200698,N. Marsman,Netherlands,FC Utrecht,70,60,70,65,73
+702,184058,J. Mabokgwane,South Africa,Orlando Pirates,68,63,70,65,75
+703,234492,J. Gamonal,Chile,Club Deportes Temuco,67,63,66,65,70
+704,208894,F. Bednarek,Poland,SC Heerenveen,66,65,64,68,70
+705,214271,A. Salazar,Chile,CD Universidad de Concepci?n,66,67,65,65,69
+706,176895,M. Pinto,Chile,CD O'Higgins,70,63,68,62,68
+707,229637,G. Akkan,Turkey,?aykur Rizespor,66,65,60,66,69
+708,182023,Deng Xiaofei,China PR,Chongqing Dangdai Lifan FC SWM Team,66,61,59,68,69
+709,210184,A. Al Qarni,Saudi Arabia,Al Ittihad,65,67,59,68,66
+710,224010,Jos? Su?rez,Spain,Girona FC,67,63,70,67,69
+711,200715,A. Davies,Wales,Barnsley,66,65,58,63,68
+712,200466,V. Eicher,Germany,1. FC Heidenheim 1846,67,66,61,67,69
+713,222484,D. Mesenh?ler,Germany,MSV Duisburg,68,71,57,63,66
+714,184084,M. Dreyer,France,Amiens SC,66,68,65,65,69
+715,230166,Fepe Avedo,Brazil,Bahia,65,63,61,64,77
+716,230167,Mateus Tangil,Brazil,Am?rica FC (Minas Gerais),66,68,63,64,72
+717,213272,L. Ch?ves,Argentina,Argentinos Juniors,68,66,63,66,69
+718,170008,B. Hamer,England,Huddersfield Town,71,63,64,65,69
+719,234779,Caro,Spain,Albacete BP,63,71,65,72,61
+720,241179,Cristian Rivero,Spain,Valencia CF,71,60,62,62,73
+721,230172,Traeira Lopes,Brazil,Vit?ria,61,60,40,77,67
+722,163616,J. Young,England,Brisbane Roar,67,63,62,63,67
+723,193312,S. Mielitz,Germany,SønderjyskE,69,65,60,66,64
+724,219937,N. K?rber,Germany,VfL Osnabr?ck,68,64,59,66,69
+725,233763,P. Dahlberg,Sweden,Watford,67,65,66,66,68
+726,187171,Kim Ho Jun,Korea Republic,Gangwon FC,67,64,66,66,67
+727,213545,J. Højbjerg,Denmark,Esbjerg fB,71,59,69,68,68
+728,224041,M. Schw?be,Germany,Brøndby IF,71,64,71,60,71
+729,227370,M. Zetterer,Germany,SV Werder Bremen,68,66,71,64,70
+730,215085,R. Naranjo,Chile,Deportes Iquique,68,67,62,64,66
+731,203824,R. Matthews,England,Bolton Wanderers,67,68,63,66,65
+732,244017,M. Asselah,Algeria,Al Hazem,68,65,62,65,70
+733,244274,A. ?emper,Croatia,Chievo Verona,71,63,61,68,65
+734,244020,Andr? Ferreira,Portugal,CD Aves,68,67,56,65,70
+735,193076,Assis,Brazil,Boavista FC,66,66,69,69,66
+736,171574,Santamar?a,Spain,SD Huesca,69,72,65,67,59
+737,214583,C. Vargas,Colombia,Atl?tico Nacional,68,66,57,66,65
+738,105533,L. Załuska,Poland,Pogo? Szczecin,62,65,67,68,67
+739,233791,A. Maksimenko,Russia,Spartak Moscow,71,64,67,66,75
+740,204354,J. Alnwick,England,Scunthorpe United,68,66,61,66,68
+741,207427,M. Lampson,United States,Minnesota United FC,67,66,68,67,69
+742,219715,R. Di Gennaro,Italy,Inter,68,64,59,63,70
+743,173895,S. Eastwood,England,Oxford United,65,60,62,67,71
+744,229704,J. Vachoux,France,Racing Club de Lens,69,63,63,66,69
+745,190792,P. Mandanda,DR Congo,Sporting de Charleroi,70,61,66,63,71
+746,224846,K. Kotsaris,Greece,Panathinaikos FC,70,62,60,65,71
+747,178766,B. Mitrev,Bulgaria,,60,69,73,66,68
+748,193870,Pedro Trigueira,Portugal,Moreirense FC,63,64,70,67,69
+749,238674,K. Broll,Germany,SG Sonnenhof Großaspach,69,65,38,65,72
+750,187218,M. Jim?nez,Mexico,Guadalajara,65,67,66,65,69
+751,199764,J. Ligali,France,Montpellier HSC,70,65,64,63,68
+752,213588,A. S?nchez,Argentina,Atl?tico Tucum?n,65,62,67,67,72
+753,157018,M. Hern?ndez,Mexico,Tiburones Rojos de Veracruz,67,64,66,66,69
+754,218971,S. Gbohouo,Ivory Coast,,66,65,70,65,68
+755,182622,Serginho,Portugal,Santa Clara,65,66,61,64,66
+756,226403,F. Crivelli,Argentina,Club Atl?tico Tigre,67,59,69,69,66
+757,178022,C. G?nen,Turkey,M?laga CF,73,62,67,63,69
+758,194150,S. Moore,England,Sheffield United,66,65,69,64,67
+759,243304,Zubiaurre,Spain,Real Sociedad,65,66,67,63,68
+760,213615,R. Williams,South Africa,,71,65,62,61,70
+761,182897,S. Bruzzese,Belgium,KV Kortrijk,67,65,68,66,68
+762,211827,P. Klewin,Germany,DSC Arminia Bielefeld,67,63,60,69,66
+763,11381,M. Gilks,Scotland,Scunthorpe United,66,70,65,68,64
+764,201847,L. Bostyn,Belgium,SV Zulte-Waregem,72,66,59,67,66
+765,228221,Bernab?,Spain,Gimn?stic de Tarragona,65,69,64,66,65
+766,201352,A. Iacobucci,Italy,Frosinone,67,62,65,64,71
+767,204424,P. Izzo,Australia,Adelaide United,68,63,63,66,69
+768,213646,Miguel Oliveira,Portugal,Vit?ria Guimar?es,68,65,62,68,67
+769,201873,J. Bendik,United States,Orlando City SC,67,65,63,69,67
+770,201875,J. Attinella,United States,Portland Timbers,68,65,63,65,67
+771,227477,F. Altamirano,Argentina,Club Atl?tico Banfield,65,64,68,65,68
+772,198040,E. Alvarado,Costa Rica,Trabzonspor,70,60,65,64,71
+773,238489,T. Boss,Germany,SG Dynamo Dresden,72,63,57,62,70
+774,221601,Carlos Abad,Spain,C?rdoba CF,68,66,64,65,68
+775,231841,M. Pr?vot,France,FC Sochaux-Montb?liard,67,64,67,66,68
+776,188836,J. Steele,England,Brighton & Hove Albion,68,63,71,67,67
+777,229288,R. de Boer,Netherlands,AZ Alkmaar,70,63,61,60,70
+778,47020,K. Begois,Belgium,FC Groningen,64,66,65,71,65
+779,222129,A. Co?elev,Moldova,Fortuna Sittard,68,67,66,67,68
+780,230321,Rafael de Aseiro,Brazil,Sport Club do Recife,67,59,58,68,71
+781,191924,Lee Bum Young,Korea Republic,Gangwon FC,68,66,63,62,69
+782,216245,L. C?rdenas,Mexico,Quer?taro,68,67,67,65,68
+783,219836,Rub?n Y??ez,Spain,Getafe CF,67,65,61,67,69
+784,177340,P. Frattali,Italy,Parma,65,66,63,68,66
+785,210366,N. Lomb,Germany,SV Sandhausen,70,63,65,64,71
+786,231878,T. Miller,United States,Los Angeles FC,68,65,66,66,67
+787,214983,M. Ib??ez,Argentina,Club Atl?tico Lan?s,69,64,62,67,69
+788,201940,Z. MacMath,United States,Colorado Rapids,68,65,55,67,69
+789,234197,I. Groothuizen,Netherlands,ADO Den Haag,65,63,66,66,67
+790,202199,G. Long,England,Hull City,68,66,64,66,69
+791,230872,M. Svilar,Belgium,SL Benfica,71,59,63,62,70
+792,171490,S. Aresti,Italy,Cagliari,66,65,61,69,65
+793,202469,D. Bingham,United States,LA Galaxy,68,63,71,65,69
+794,179685,C. Seitz,United States,Houston Dynamo,67,61,71,69,67
+795,214503,L. Delgado,Colombia,Atl?tico Bucaramanga,63,65,68,69,68
+796,213736,J. Gonzalez,United States,FC Dallas,68,65,64,65,69
+797,53736,L. Camp,Northern Ireland,Birmingham City,65,65,71,65,67
+798,190698,J. Buri?,Bosnia Herzegovina,Lech Pozna?,65,64,60,65,68
+799,186611,M. Vigorito,Italy,Lecce,66,64,62,64,73
+800,204534,N. Ramos,Colombia,Atl?tico Bucaramanga,62,71,73,67,65
+801,224761,T. Loska,Poland,G?rnik Zabrze,70,63,57,63,72
+802,207610,R. Meara,Republic of Ireland,New York Red Bulls,66,65,64,68,70
+803,220944,J. Wildsmith,England,Sheffield Wednesday,69,65,67,66,69
+804,200209,N. Larsen,Denmark,FC Nordsjælland,67,66,60,66,70
+805,243985,Manu Garc?a,Spain,Extremadura UD,67,64,54,62,69
+806,193302,F. Kurto,Poland,Wellington Phoenix,68,62,59,64,68
+807,192792,P. Kov??,Czech Republic,SK Slavia Praha,66,59,69,61,72
+808,221468,Son Jeong Hyeon,Korea Republic,Gyeongnam FC,69,64,64,64,67
+809,195356,M. Dela?,Croatia,AC Horsens,67,67,63,65,68
+810,195357,F. Farnolle,Benin,Yeni Malatyaspor,67,64,65,66,64
+811,213536,M. Cr?peau,Canada,,68,61,59,67,69
+812,230177,Jailson Acuna,Brazil,Sport Club do Recife,57,74,77,63,68
+813,163621,B. Alnwick,England,Bolton Wanderers,67,60,60,62,71
+814,183596,E. Domaschke,Germany,SV Meppen,64,66,67,63,66
+815,243759,I. Arce,Argentina,San Martin de Tucum?n,66,65,62,63,68
+816,222263,N. Jackers,Belgium,KRC Genk,67,65,59,63,66
+817,235582,L. Badiashile,France,AS Monaco,67,65,65,65,67
+818,235073,G. Kobel,Switzerland,TSG 1899 Hoffenheim,70,64,55,63,68
+819,205378,B. Valette,France,N?mes Olympique,69,64,64,67,67
+820,215363,L. Montip?,Italy,Benevento,65,64,60,62,72
+821,235590,P. Sisniega,Mexico,Real Sociedad,63,71,64,67,63
+822,181831,Yang Cheng,China PR,Hebei China Fortune FC,64,64,67,66,65
+823,117063,N. Douchez,France,Red Star FC,64,65,65,66,64
+824,214088,C. Dawson,England,Sheffield Wednesday,65,66,60,60,72
+825,155980,D. Bi??k,Czech Republic,Sparta Praha,66,64,63,64,65
+826,231244,E. Res?ndez,Mexico,Monterrey,64,64,64,65,68
+827,224592,F. Perucchini,Italy,Ascoli,69,62,60,67,68
+828,234577,Diogo Costa,Portugal,FC Porto,67,62,49,64,71
+829,162901,C. Doyle,Republic of Ireland,Heart of Midlothian,67,66,58,65,66
+830,189013,M. Buchalik,Poland,Wisła Krak?w,64,62,56,68,68
+831,228182,M. El-Shenawy,Egypt,,69,66,60,66,66
+832,232790,H. Iikura,Japan,Yokohama F. Marinos,64,67,58,69,63
+833,173401,A. Vanins,Latvia,FC Z?rich,69,63,66,64,68
+834,236378,A. Plizzari,Italy,Milan,68,68,59,62,72
+835,116314,D. Martin,England,Millwall,66,62,66,66,65
+836,215132,S. Moyano,Argentina,Gimnasia y Esgrima La Plata,65,66,64,65,71
+837,209757,V. Janjetovi?,Australia,Western Sydney Wanderers,66,60,63,64,68
+838,155998,T. ?ern?,Czech Republic,Aberdeen,64,64,63,66,64
+839,183646,M. Kobras,Austria,SCR Altach,68,62,56,65,70
+840,207712,N. Bertrams,Netherlands,FC Nordsjælland,66,65,63,64,66
+841,217696,A. Doukha,Algeria,Al Raed,67,62,62,62,71
+842,241248,Wang Zhuo,China PR,Guizhou Hengfeng FC,62,68,67,62,73
+843,243554,Basilio,Spain,CF Rayo Majadahonda,64,68,53,69,65
+844,223082,W. Norris,England,Wolverhampton Wanderers,68,64,61,64,70
+845,173165,N. Ravaglia,Italy,US Cremonese,63,65,57,66,69
+846,101488,D. Haas,Germany,FC Erzgebirge Aue,66,65,57,64,66
+847,188272,Magno Novaes,Brazil,AS B?ziers,67,64,72,66,62
+848,244340,R. Vodi?ek,Slovenia,Genoa,68,62,61,63,69
+849,241781,M. Awad,Egypt,Al Wehda,68,66,61,65,70
+850,171895,F. Canales,Mexico,Lobos BUAP,63,65,63,65,63
+851,208764,Z. Alomerovi?,Serbia,Lechia Gda?sk,65,63,64,64,69
+852,186494,M. Oxley,England,Southend United,67,66,65,66,68
+853,234371,R. Descamps,France,Clermont Foot 63,68,65,60,66,64
+854,121988,L. Kruse,Germany,Eintracht Braunschweig,66,64,55,65,70
+855,222342,Gu Chao,China PR,Jiangsu Suning FC,70,64,67,57,68
+856,208778,N. Manfredini,Italy,Spezia,69,64,63,63,69
+857,244363,Daniel Fuzato,Brazil,Roma,63,65,60,70,65
+858,27532,D. de Vries,Netherlands,Celtic,65,66,71,63,66
+859,198285,L. Nicholls,England,Milton Keynes Dons,68,62,64,61,70
+860,223885,A. N?bel,Germany,FC Schalke 04,65,62,63,63,69
+861,232847,Y. Akimoto,Japan,Shonan Bellmare,68,67,62,64,63
+862,211604,L. Roberts,England,Walsall,66,64,65,66,68
+863,235925,G. G?mez,Argentina,Racing Club,68,60,68,66,69
+864,230038,A. Maisonnial,France,FC Sion,70,66,62,64,68
+865,234646,C. Riegler,Austria,SKN St. P?lten,66,64,59,63,70
+866,182422,Zhang Lu,China PR,Tianjin Quanjian FC,66,64,70,61,64
+867,214680,G. Gallon,France,US Orl?ans Loiret Football,67,64,62,64,69
+868,136601,Kim Yong Dae,Korea Republic,Ulsan Hyundai FC,66,66,68,66,66
+869,220058,D. Phillips,England,Charlton Athletic,67,63,58,67,71
+870,205724,I. Lanni,Italy,Ascoli,71,61,55,60,69
+871,176540,B. Castillo,Colombia,Atl?tico Huila,60,66,64,73,63
+872,213407,M. Macey,England,Plymouth Argyle,63,66,67,64,68
+873,216750,P. Carlgren,Sweden,Randers FC,69,60,55,63,68
+874,225710,S. Sy,Senegal,AS Monaco,68,65,68,65,65
+875,214704,C. Guerra,Chile,Uni?n Espa?ola,63,65,62,65,68
+876,183477,M. ?t?ch,Czech Republic,Luton Town,64,65,66,69,70
+877,199867,Milton Raphael,Brazil,Vit?ria de Set?bal,68,66,64,64,65
+878,211132,Andr?s Prieto,Spain,M?laga CF,64,66,65,69,67
+879,225983,S. Mpontshane,South Africa,Orlando Pirates,66,63,62,65,73
+880,219584,L. Lezzerini,Italy,Venezia FC,67,60,60,64,70
+881,139213,L. Michel,Mexico,Club Tijuana,64,66,67,63,63
+882,223438,T. Renault,France,US Orl?ans Loiret Football,66,64,61,66,68
+883,236241,G. Viscarra,Bolivia,,67,64,68,70,67
+884,213719,A. Kann,United States,Atlanta United,65,66,62,66,64
+885,162265,R. Cierzniak,Poland,Legia Warszawa,67,64,60,69,65
+886,201179,A. Donnarumma,Italy,Milan,70,62,51,59,74
+887,210140,A. Al Mayoof,Saudi Arabia,Al Hilal,63,66,64,65,66
+888,235740,A. Paleari,Italy,Cittadella,66,64,65,67,70
+889,241119,Dani Mart?n,Spain,Real Sporting de Gij?n,64,65,65,64,69
+890,215522,A. Schlager,Austria,LASK Linz,67,65,63,64,68
+891,199909,P. Pervan,Austria,VfL Wolfsburg,66,68,65,67,66
+892,181733,A. Lukse,Austria,SCR Altach,66,64,60,66,68
+893,202215,J. Willis,United States,Houston Dynamo,68,65,60,68,65
+894,244969,Z. Laaroubi,Morocco,Ohod Club,66,70,62,67,65
+895,202988,Ryu Won Woo,Korea Republic,Pohang Steelers,67,64,65,65,67
+896,204269,Z. Clark,Scotland,St. Johnstone FC,66,62,60,64,74
+897,215533,S. Stevens,Netherlands,Excelsior,67,67,59,61,64
+898,155886,S. Henderson,Republic of Ireland,Nottingham Forest,66,63,70,64,62
+899,239342,H. Koffi,Burkina Faso,LOSC Lille,69,59,62,63,70
+900,223727,C. MacGillivray,England,Portsmouth,67,64,67,64,68
+901,231664,J. Aguirre,Colombia,Atl?tico Bucaramanga,70,60,64,60,71
+902,211953,R. Vollath,Germany,KFC Uerdingen 05,65,62,60,68,69
+903,192500,E. Barli,Norway,Ranheim Fotball,67,62,61,64,67
+904,112373,A. Balijon,France,Le Havre AC,65,64,61,69,67
+905,210422,K. Kami?ski,Poland,J?bilo Iwata,68,66,66,68,63
+906,246010,?lex Cobo,Spain,Deportivo de La Coru?a,65,68,60,65,67
+907,234748,Gu Sung Yun,Korea Republic,Hokkaido Consadole Sapporo,64,61,60,67,68
+908,210941,Lee Chang Geun,Korea Republic,Jeju United FC,66,64,64,64,68
+909,243197,C. Knett,Austria,FC Wacker Innsbruck,65,63,60,64,70
+910,232191,Lee Ho Seung,Korea Republic,Jeonnam Dragons,65,65,63,65,65
+911,225282,J. Devecchi,Argentina,San Lorenzo de Almagro,65,62,59,64,67
+912,235266,C. Fr?chtl,Germany,FC Bayern M?nchen,68,65,66,64,68
+913,221700,No Dong Geon,Korea Republic,Suwon Samsung Bluewings,68,57,65,63,71
+914,221704,S. Rom?n,Colombia,Once Caldas,64,60,59,66,72
+915,181001,B. Knighton,United States,New England Revolution,67,65,63,64,60
+916,118794,A. Lonergan,England,Middlesbrough,65,62,52,65,67
+917,171019,D. Forde,Republic of Ireland,Cambridge United,64,65,64,68,63
+918,221964,Wu Yake,China PR,Changchun Yatai FC,66,61,61,67,63
+919,209166,M. Malaeka,Saudi Arabia,Al Faisaly,65,63,66,62,67
+920,110606,A. Mannus,Northern Ireland,Shamrock Rovers,66,66,62,68,63
+921,207633,J. Haugaard,Denmark,Stoke City,65,64,62,61,66
+922,220433,?scar Whalley,Spain,Aarhus GF,66,65,68,63,66
+923,183827,J. Deumeland,Germany,IK Start,65,65,66,62,66
+924,216597,V. Vries,Namibia,Kaizer Chiefs,69,61,62,58,70
+925,212247,O. Schnitzler,Germany,SC Preußen M?nster,64,62,65,62,67
+926,229402,D. Castillo,Chile,CD Universidad de Concepci?n,66,63,60,67,68
+927,200989,M. Schulze Niehues,Germany,SC Preußen M?nster,64,65,62,66,63
+928,170785,G. Faivre,Switzerland,FC Thun,65,67,62,67,64
+929,175141,D. Ovono,Gabon,Paris FC,67,58,64,65,70
+930,157734,A. Jaakkola,Finland,Reading,68,61,60,67,68
+931,203815,P. Delecroix,France,FC Metz,64,65,62,66,65
+932,188968,G. Marinelli,Argentina,Club Atl?tico Tigre,65,62,66,65,67
+933,214314,A. Otero,Colombia,Patriotas Boyac? FC,55,70,69,75,58
+934,183597,A. Stolz,Germany,TSG 1899 Hoffenheim,69,67,66,63,63
+935,223792,T. Knoflach,Austria,SK Rapid Wien,66,60,61,65,71
+936,214578,S. Avellaneda,Colombia,Boyac? Chic? FC,68,61,52,62,71
+937,183347,J. Leutwiler,Canada,Blackburn Rovers,65,62,63,66,67
+938,184630,L. Daniels,England,Brentford,65,60,63,60,75
+939,214587,J. Deschamps,Chile,Curic? Unido,66,61,63,65,61
+940,204349,I. ?ehi?,Bosnia Herzegovina,BB Erzurumspor,61,66,66,71,67
+941,192317,J. Steer,England,Charlton Athletic,66,63,61,62,69
+942,208958,K. Sharahili,Saudi Arabia,Al Faisaly,66,60,64,67,66
+943,231489,A. Keita,Guinea,?stersunds FK,74,59,77,50,71
+944,213314,Ham Seok Min,Korea Republic,Gangwon FC,65,64,68,65,65
+945,232003,M. Sol?s,Colombia,Independiente Santa Fe,61,64,72,67,62
+946,244547,D. Merelli,Italy,Padova,66,64,62,61,68
+947,217156,Zhang Lie,China PR,Beijing Renhe FC,64,65,65,65,62
+948,227909,J. McCarthy,United States,Philadelphia Union,66,64,58,63,68
+949,203849,C. Cropper,United States,New England Revolution,68,63,62,62,68
+950,107084,M. Langer,Austria,FC Schalke 04,64,62,60,67,65
+951,199245,G. Allison,Mexico,Cruz Azul,64,66,65,65,64
+952,200525,S. Walker,England,Reading,68,63,61,65,67
+953,235856,Y. Marillat,France,AS B?ziers,64,64,66,66,66
+954,204883,B. Samba,France,Stade Malherbe Caen,66,62,57,61,67
+955,210772,P. Drewes,Germany,FC W?rzburger Kickers,68,63,64,63,62
+956,240212,D. Petkovi?,Montenegro,FC Lorient,66,62,63,65,67
+957,244827,A. Duarte,Peru,Lobos BUAP,70,72,56,63,60
+958,183643,L. K?nigshofer,Austria,SpVgg Unterhaching,66,61,53,64,66
+959,224348,L. Hoyos,Argentina,V?lez Sarsfield,70,59,58,60,72
+960,244316,Lu?s Maximiano,Portugal,Sporting CP,67,64,69,63,67
+961,182365,J. Jones,England,Wigan Athletic,66,64,64,63,67
+962,240751,G. Poussin,France,FC Girondins de Bordeaux,65,64,63,64,66
+963,188278,M. Birighitti,Australia,Melbourne City FC,66,63,64,64,69
+964,225149,J. Butez,France,Royal Excel Mouscron,65,61,70,64,66
+965,239999,Pedro Silva,Portugal,CD Tondela,69,58,59,59,67
+966,244607,M. Giannikoglou,Greece,AEK Athens,66,62,64,60,70
+967,233088,G. Rehak,Argentina,Independiente,65,64,60,65,63
+968,224130,J. Vickers,England,Lincoln City,67,63,62,62,64
+969,152456,S. Brown,England,Port Vale,65,63,60,65,63
+970,162952,M. Caranta,Argentina,Club Atl?tico Talleres,54,69,66,67,62
+971,178312,D. Bassi,Italy,Spezia,65,61,58,66,66
+972,201353,J. Kempin,United States,Columbus Crew SC,67,65,68,64,66
+973,186508,A. Østbø,Norway,Rosenborg BK,63,64,62,61,67
+974,225678,H. Piedra,Ecuador,,64,65,66,66,67
+975,140183,S. Narazaki,Japan,Nagoya Grampus,64,63,62,67,63
+976,201112,J. Słowik,Poland,?l?sk Wrocław,69,56,48,70,68
+977,220314,O. Marciano,Israel,Hibernian,65,63,57,62,67
+978,217502,A. Kofler,Austria,Wolfsberger AC,64,68,59,68,65
+979,241831,M. Hildebrandt,United States,Atlanta United,67,61,61,63,65
+980,202921,J. Gleeson,New Zealand,Portland Timbers,65,65,64,63,63
+981,222639,R. Ram?rez,Argentina,Godoy Cruz,66,64,58,63,68
+982,224175,M. de Fockert,Netherlands,Excelsior,63,65,64,67,65
+983,213428,C. Irwin,United States,Toronto FC,66,64,64,63,64
+984,223925,A. Brunst,Germany,1. FC Magdeburg,67,64,60,60,67
+985,184763,Y. Thuram,France,Le Havre AC,66,62,60,64,66
+986,217277,?ngel Galv?n,Spain,CD Tenerife,67,66,61,62,63
+987,224702,Liu Dianzuo,China PR,Guangzhou Evergrande Taobao FC,64,64,70,62,65
+988,184254,J. Ayala,Argentina,Rosario Central,67,66,65,58,68
+989,157888,Q. Westberg,United States,AJ Auxerre,66,63,61,63,64
+990,233156,S. Arai,Japan,Kawasaki Frontale,66,63,58,63,66
+991,233157,N. Medvedev,Russia,Lokomotiv Moscow,62,69,62,64,63
+992,189387,T. Mickel,Germany,Hamburger SV,65,62,65,62,66
+993,125132,B. K?rk,Turkey,Akhisar Belediyespor,68,61,68,62,64
+994,214222,L. Giovini,Argentina,Uni?n La Calera,63,62,62,68,63
+995,203215,A. Cairns,England,Fleetwood Town,63,61,58,64,66
+996,198355,S. Clark,United States,Portland Timbers,63,63,63,65,63
+997,204502,M. Ingram,England,Queens Park Rangers,69,64,62,63,68
+998,235990,Markel Areitio,Spain,SD Eibar,64,65,62,65,67
+999,181976,Yang Zhi,China PR,Beijing Sinobo Guoan FC,62,65,62,64,63
+1000,216540,W. Eskelinen,Sweden,GIF Sundsvall,66,64,58,66,66
+1001,181468,D. Bouzanis,Australia,PEC Zwolle,65,62,66,64,64
+1002,196316,B. Maubleu,France,Grenoble Foot 38,65,64,57,66,65
+1003,178143,E. Birni?an,Turkey,Kasimpa?a SK,58,60,53,73,72
+1004,236515,?lvaro,Spain,Extremadura UD,67,60,57,64,66
+1005,225511,C. Trueman,England,Birmingham City,66,64,61,63,68
+1006,205288,Fernando,Spain,UD Almer?a,67,62,56,60,68
+1007,214762,N. Avellaneda,Argentina,Defensa y Justicia,62,64,63,65,68
+1008,51694,H. Opdal,Norway,IK Start,62,63,64,64,65
+1009,223732,A. Damen,Netherlands,Excelsior,67,58,65,67,64
+1010,244987,M. ?lvarez,Argentina,Independiente,67,60,55,75,65
+1011,232447,Y. Rokutan,Japan,Shimizu S-Pulse,64,66,58,63,63
+1012,176384,M. Gostomski,Poland,Cracovia,64,60,55,64,68
+1013,228613,F. Al Masrahi,Saudi Arabia,Al Qadisiyah,63,62,59,64,65
+1014,229127,J. Teunckens,Belgium,Royal Antwerp FC,68,63,56,55,68
+1015,217096,J. Lumley,England,Queens Park Rangers,65,62,64,59,64
+1016,228616,D. Bertaud,France,Montpellier HSC,67,60,58,59,70
+1017,187144,Cho Soo Hyuk,Korea Republic,Ulsan Hyundai FC,61,66,62,65,63
+1018,230674,F. Alastra,Italy,Palermo,65,62,62,60,69
+1019,214035,J. Mart?nez,Colombia,Envigado FC,65,62,62,65,63
+1020,222485,B. Bellot,Germany,Brøndby IF,64,61,68,59,66
+1021,54037,T. Berni,Italy,Inter,64,60,59,64,66
+1022,156438,T. Gebauer,Austria,LASK Linz,63,65,61,66,60
+1023,240662,F. Torgnascioli,Uruguay,CD Everton de Vi?a del Mar,64,61,63,60,71
+1024,189718,A. Etemadi,Iran,De Graafschap,65,63,66,59,66
+1025,210711,B. Rowe,United States,Vancouver Whitecaps FC,65,64,63,61,68
+1026,229655,Alberto Varo,Spain,CD Lugo,61,63,64,62,65
+1027,214041,S. Londo?o,Colombia,Envigado FC,66,61,57,65,66
+1028,176922,F. Assmann,Argentina,Club Atl?tico Aldosivi,70,52,67,67,66
+1029,155422,J. Szmatuła,Poland,Piast Gliwice,63,64,66,66,65
+1030,185118,M. Perdiji?,Croatia,Zagł?bie Sosnowiec,66,64,62,65,63
+1031,230694,I. ?ipe,Turkey,Galatasaray SK,63,66,64,64,64
+1032,160295,E. Galekovic,Australia,Melbourne City FC,65,63,64,63,60
+1033,197928,J. Bond,England,West Bromwich Albion,65,61,61,62,64
+1034,231720,Q. Braat,France,FC Nantes,67,65,61,61,66
+1035,209193,P. Wiegers,Germany,SG Dynamo Dresden,64,65,60,57,67
+1036,222514,F. Woodman,England,Newcastle United,66,60,55,63,65
+1037,235574,Lucas Fran?a,Brazil,CD Nacional,64,58,59,64,65
+1038,192316,G. Kongshavn,Norway,Tromsø IL,67,64,63,62,64
+1039,210502,M. Kuttin,Austria,FC Admira Wacker M?dling,65,60,69,61,66
+1040,202570,J. Maurer,United States,FC Dallas,66,63,64,66,66
+1041,211537,J. Hamilton,Scotland,Dundee FC,66,60,55,65,68
+1042,225361,L. McGee,England,Portsmouth,69,59,54,60,70
+1043,207443,P. Charruau,France,Red Star FC,66,61,58,64,66
+1044,227668,S. Ichazo,Uruguay,Torino,62,62,67,62,61
+1045,122718,P. Heerwagen,Germany,FC Ingolstadt 04,66,62,55,63,65
+1046,218212,A. Noppert,Netherlands,Foggia,66,61,62,65,61
+1047,190822,E. Johansen,Norway,Sandefjord Fotball,60,63,65,61,69
+1048,211053,L. H?gg-Johansson,Sweden,Kalmar FF,66,60,63,63,64
+1049,240752,O. Mandanda,France,FC Girondins de Bordeaux,67,63,59,63,66
+1050,152690,D. Konstantopoulos,Greece,Middlesbrough,65,63,60,67,61
+1051,214131,R. S?nchez,Colombia,Millonarios FC,65,63,58,64,62
+1052,226675,F. Lanzillotta,Argentina,Argentinos Juniors,65,64,60,62,67
+1053,223352,L. L?pez,Honduras,Los Angeles FC,64,64,61,61,64
+1054,213626,F. Hurtado,Chile,CD Antofagasta,64,66,62,61,64
+1055,220542,R. Qui?onez,Bolivia,,66,63,66,62,66
+1056,165502,J. Lillis,England,Rochdale,66,63,62,57,66
+1057,161921,P. Leciejewski,Poland,Zagł?bie Lubin,61,63,60,62,64
+1058,209027,A. Al Kassar,Saudi Arabia,Al Faisaly,65,61,56,63,68
+1059,193411,K. Fickentscher,Switzerland,FC Sion,61,59,57,65,71
+1060,199812,R. Allsop,England,Wycombe Wanderers,65,57,65,61,67
+1061,140420,B. Murphy,Republic of Ireland,Cardiff City,65,59,56,65,67
+1062,239499,K. Eisele,Germany,Hallescher FC,66,63,63,60,69
+1063,187275,Hong Jung Nam,Korea Republic,Jeonbuk Hyundai Motors,65,63,62,64,62
+1064,240781,Edu Frias,Spain,RCD Espanyol,64,66,61,62,66
+1065,238734,T. M?ller,Germany,Hallescher FC,67,59,61,61,68
+1066,232082,A. Tarbell,United States,San Jose Earthquakes,67,64,64,66,66
+1067,199321,T. Hol?,Czech Republic,Gillingham,68,58,57,63,68
+1068,148634,B. Vandenbussche,Belgium,KSV Cercle Brugge,58,68,62,75,56
+1069,216478,J. Mitchell,England,Oxford United,63,62,63,63,65
+1070,184222,J. Rask,Denmark,Hobro IK,63,66,53,63,66
+1071,214432,J. Valencia,Colombia,Rionegro ?guilas,68,59,62,59,68
+1072,220833,A. Mandrea,France,Angers SCO,68,56,58,60,72
+1073,230818,H. Canbazo?lu,Turkey,BB Erzurumspor,65,65,58,59,68
+1074,211883,K. M?ller,Germany,FC St. Pauli,63,60,58,63,66
+1075,232107,E. Oelschl?gel,Germany,Borussia Dortmund,67,60,57,58,68
+1076,203440,D. Davari,Iran,MSV Duisburg,67,53,69,64,67
+1077,244912,T. Sugeno,Japan,Hokkaido Consadole Sapporo,70,55,57,63,66
+1078,191153,R. Sandberg,Sweden,Stabæk Fotball,65,60,58,63,67
+1079,223923,L. Santelices,Chile,Curic? Unido,61,65,62,61,64
+1080,229817,R. Swete,Austria,TSV Hartberg,63,58,64,67,65
+1081,229052,O. ?zen?,Turkey,Antalyaspor,62,63,62,65,66
+1082,182206,R. O'Donnell,England,Bradford City,65,60,61,61,64
+1083,210368,J. Duncan,Australia,Al Qadisiyah,65,62,60,62,66
+1084,238018,D. van Crooij,Netherlands,VVV-Venlo,66,65,60,65,63
+1085,214981,E. Mastrol?a,Argentina,Club Atl?tico Talleres,64,60,61,69,63
+1086,214471,A. Cadavid,Colombia,Itag?? Leones FC,66,60,53,63,66
+1087,223175,O. Kocuk,Turkey,Bursaspor,65,67,59,58,66
+1088,169415,E. Hern?ndez,Mexico,Club Atlas,71,54,60,63,66
+1089,216779,F. Ruberto,Switzerland,FC Thun,68,65,64,60,65
+1090,235213,?lex Craninx,Belgium,Molde FK,66,70,68,58,59
+1091,191437,A. Al Mazaidi,Saudi Arabia,Al Fateh,61,68,66,64,62
+1092,206032,Pol,Spain,CF Reus Deportiu,59,71,61,62,59
+1093,187857,G. Sandomierski,Poland,Jagiellonia Białystok,58,63,68,61,68
+1094,222418,N. Losada,Argentina,Deportivo Pasto,70,55,60,58,69
+1095,213206,B. Stuver,United States,New York City FC,67,64,62,62,64
+1096,207833,Leonardo,Brazil,Portimonense SC,62,62,62,62,68
+1097,190169,D. Telgenkamp,Netherlands,FC Emmen,68,63,60,62,65
+1098,206555,C. Pym,England,Exeter City,64,63,65,62,67
+1099,243675,K. Scherpen,Netherlands,FC Emmen,64,63,61,63,65
+1100,210652,B. Maga?a,United States,U.N.A.M.,62,66,58,63,61
+1101,111328,L. McCormick,England,Swindon Town,60,63,62,61,60
+1102,187619,C. Patterson-Sewell,United States,Toronto FC,65,60,67,65,66
+1103,204773,M. Jeannin,Algeria,Clermont Foot 63,66,61,61,65,66
+1104,182761,A. Legzdins,England,Burnley,64,61,62,64,65
+1105,238570,Song Bum Keun,Korea Republic,Jeonbuk Hyundai Motors,64,63,64,65,63
+1106,183789,M. Howard,England,Blackpool,61,63,61,63,68
+1107,245487,Diogo Silva,Portugal,CD Tondela,62,61,63,69,62
+1108,161776,C. Logan,Republic of Ireland,Mansfield Town,62,60,64,62,66
+1109,205554,L. Zima,Czech Republic,Livorno,68,59,63,61,64
+1110,240371,A. Jakubech,Slovakia,LOSC Lille,63,62,64,61,66
+1111,233976,Nelson Freitosa,Brazil,Cear? Sporting Club,59,47,66,72,74
+1112,139257,D. Lopar,Switzerland,FC St. Gallen,65,63,60,63,60
+1113,200955,A. ?zer,Turkey,Fortuna Sittard,66,64,62,63,64
+1114,210428,P. Bajza,Slovakia,Vejle Boldklub,66,57,61,63,70
+1115,226300,U. ?akır,Turkey,Trabzonspor,64,62,64,60,67
+1116,214272,P. Soto,Chile,Colo-Colo,64,61,62,63,64
+1117,236033,Dani C?rdenas,Spain,Levante UD,60,62,58,55,69
+1118,243201,?lex Dom?nguez,Spain,Deportivo Alav?s,60,61,63,59,64
+1119,189955,O. S?derberg,Sweden,Kalmar FF,61,63,61,64,64
+1120,239364,P. K?hn,Switzerland,FC Red Bull Salzburg,64,63,60,66,63
+1121,240135,Nuno Macedo,Portugal,Moreirense FC,65,63,66,61,64
+1122,177672,D. Da Costa,Switzerland,FC Lugano,63,63,57,61,61
+1123,225548,A. Dagriri,Saudi Arabia,Al Hazem,63,60,64,62,64
+1124,234000,Sander Asevedo,Brazil,Paran?,68,59,47,60,58
+1125,193555,M. Mi?kiewicz,Poland,Korona Kielce,61,64,48,69,63
+1126,243735,A. Spahic,Bosnia Herzegovina,FC Energie Cottbus,60,61,60,68,65
+1127,245783,Paulo V?tor,Brazil,Rio Ave FC,63,62,74,63,57
+1128,203034,J. Day,England,Newport County,64,56,55,62,70
+1129,207899,Neto,Brazil,Am?rica de Cali,66,61,60,54,69
+1130,230171,Carlos Travisso,Brazil,Vit?ria,68,43,64,64,72
+1131,182047,Wu Yan,China PR,Henan Jianye FC,61,62,58,64,64
+1132,228385,H. Burgoyne,England,Plymouth Argyle,65,62,61,61,64
+1133,104737,B. Roche,Republic of Ireland,Morecambe,59,65,62,69,63
+1134,202786,R. S?nchez,Mexico,Chicago Fire,70,59,63,58,68
+1135,171555,J. Mucha,Slovakia,Hamilton Academical FC,63,67,64,55,63
+1136,170280,J. McKeown,Republic of Ireland,Grimsby Town,62,57,57,61,64
+1137,216106,M. Van Damme,Belgium,KSV Cercle Brugge,63,61,60,59,66
+1138,214571,J. Escobar,Colombia,Jaguares de C?rdoba,62,63,59,64,62
+1139,208684,C. Dobnik,Austria,Wolfsberger AC,65,59,63,65,63
+1140,222510,I. Pomazun,Russia,PFC CSKA Moscow,62,64,68,60,66
+1141,221235,A. Mosquera,Colombia,Independiente Medell?n,67,56,58,62,65
+1142,203316,A. Smith,England,Bristol Rovers,64,58,63,61,68
+1143,178485,B. Olejnik,Austria,Mansfield Town,65,61,58,60,63
+1144,187959,M. Pe?kovi?,Slovakia,Cracovia,60,63,61,63,62
+1145,231993,Chi Wenyi,China PR,Beijing Sinobo Guoan FC,63,60,65,63,64
+1146,228410,D. Iversen,Denmark,Oldham Athletic,67,61,60,63,66
+1147,219967,D. Hładun,Poland,Zagł?bie Lubin,62,64,62,61,63
+1148,163135,M. Tørnes,Denmark,Vendsyssel FF,62,62,60,63,65
+1149,205377,D. L?on,France,Stade Brestois 29,61,62,60,63,65
+1150,234049,B. Niasse,Senegal,KAS Eupen,74,60,56,51,65
+1151,235597,M. Al Anazi,Saudi Arabia,Al Batin,63,59,59,65,66
+1152,191827,Yoo Hyun,Korea Republic,FC Seoul,68,53,74,65,63
+1153,118868,C. K?llqvist,Sweden,BK H?cken,55,65,64,66,59
+1154,213589,J. Mu?oz,Chile,Audax Italiano,64,61,60,62,65
+1155,19541,G. Morris,England,Crawley Town,67,58,62,63,66
+1156,209750,I. Lawlor,Republic of Ireland,Doncaster Rovers,65,60,61,61,64
+1157,210006,T. D?hne,Germany,Wisła Płock,65,59,54,61,67
+1158,227926,T. Worra,United States,DC United,65,59,68,65,66
+1159,27480,T. Zwarthoed,Netherlands,NAC Breda,69,64,67,62,53
+1160,221531,M. Maro?i,Slovakia,Doncaster Rovers,61,61,60,62,63
+1161,234846,S. M?ller,Germany,Karlsruher SC,63,66,54,62,67
+1162,226656,E. Gertmonas,Lithuania,Stade Rennais FC,67,57,56,57,71
+1163,239461,J. Castillo,Mexico,U.N.A.M.,63,62,65,60,63
+1164,202854,B. Sylvestre,United States,LA Galaxy,62,64,69,64,66
+1165,228456,Juan P?rez,Spain,CA Osasuna,62,66,57,62,68
+1166,191848,W. Abdullah,Saudi Arabia,Al Nassr,63,58,69,61,64
+1167,197998,A. Andersson,Sweden,?stersunds FK,63,65,57,64,63
+1168,221807,P. Grazziani,Colombia,Alianza Petrolera,64,61,58,63,65
+1169,215408,A. Chapman,England,Peterborough United,66,60,55,62,65
+1170,225395,Ezkieta,Spain,FC Barcelona,65,58,59,59,64
+1171,186488,Li Shuai,China PR,Shanghai Greenland Shenhua FC,65,55,58,62,65
+1172,223868,T. Sch?tzenauer,Austria,SK Sturm Graz,63,60,65,64,63
+1173,170877,K. Letheren,Wales,Plymouth Argyle,61,65,64,60,61
+1174,174206,G. Moss,New Zealand,Newcastle Jets,63,60,62,61,63
+1175,237443,T. Okubo,Japan,FC Tokyo,56,56,57,69,68
+1176,235652,U. Yuvakuran,Turkey,Be?ikta? JK,64,60,59,60,64
+1177,241028,J. Aylagas,Argentina,Club Atl?tico Col?n,63,64,62,60,65
+1178,222600,Lee Tae Hee,Korea Republic,Incheon United FC,62,62,61,62,63
+1179,225419,E. Ruiz,Colombia,La Equidad,67,60,54,63,65
+1180,244366,Guilherme Oliveira,Portugal,Os Belenenses,64,62,52,65,63
+1181,222864,J. Rose,England,Southampton,66,62,53,55,68
+1182,219795,J. Coleman,England,Shrewsbury,63,61,62,62,64
+1183,204438,C. Diop,Senegal,Montreal Impact,69,58,63,58,68
+1184,177815,Y. De Winter,Belgium,Royal Antwerp FC,64,63,56,65,61
+1185,144024,D. Zibung,Switzerland,FC Luzern,65,60,53,62,65
+1186,244120,S. R?not,France,Red Star FC,61,61,62,64,64
+1187,241050,A. Meyer,Germany,VfB Stuttgart,68,60,68,49,67
+1188,235931,M. ?engezer,Turkey,Bursaspor,63,60,57,61,66
+1189,211358,J. Fabri,France,Stade Brestois 29,63,61,60,62,64
+1190,211105,N. Flø,Denmark,Vendsyssel FF,64,61,55,62,66
+1191,209572,A. Al Owayshir,Saudi Arabia,Al Nassr,62,63,60,61,63
+1192,242084,Carlos Miguel,Brazil,FC Red Bull Salzburg,69,59,64,66,62
+1193,213413,L. Vigouroux,Chile,Swindon Town,64,59,63,59,68
+1194,232101,S. Hern?ndez,Mexico,Club Atlas,64,67,60,65,63
+1195,209318,B. de Jong,Netherlands,RSC Anderlecht,62,58,63,60,65
+1196,213926,A. Kanibolotskyi,Ukraine,Mied? Legnica,64,62,59,59,67
+1197,203175,L. Burge,England,Coventry City,67,59,49,61,69
+1198,228526,Hwang ByeongGeun,Korea Republic,Jeonbuk Hyundai Motors,66,60,56,59,66
+1199,223407,M. Al Furayj,Saudi Arabia,Al Fayha,65,60,58,63,65
+1200,205747,M. Sourzac,France,N?mes Olympique,63,62,57,60,66
+1201,120243,P. Gori,Italy,Benevento,56,59,64,69,59
+1202,189109,A. Cisak,Australia,Sydney FC,65,59,63,64,63
+1203,225213,G. Singh Sandhu,India,,63,59,59,62,64
+1204,205759,D. Stojanovi?,FYR Macedonia,FC St. Gallen,65,60,59,59,68
+1205,231105,A. Olliero,France,FC Nantes,66,62,59,59,66
+1206,101317,M. Ratajczak,Germany,SC Paderborn 07,62,64,35,64,64
+1207,211398,M. Caillard,France,En Avant de Guingamp,63,59,57,58,65
+1208,216518,H. Bonmann,Germany,TSV 1860 M?nchen,64,59,58,64,64
+1209,182470,Yu Ziqian,China PR,Dalian YiFang FC,61,63,66,60,65
+1210,230858,S. Perisan,Italy,Padova,68,59,56,58,65
+1211,152523,S. Flinders,England,Cheltenham Town,62,60,58,62,65
+1212,229067,N. Rehnen,Germany,SC Fortuna K?ln,65,59,60,63,64
+1213,185291,K. Debaty,Belgium,Waasland-Beveren,65,61,50,64,62
+1214,224204,S. Kroll,Germany,VfL Sportfreunde Lotte,62,60,58,61,67
+1215,181452,O. Sissoko,Mali,Le Havre AC,63,60,58,61,66
+1216,183244,A. Redmayne,Australia,Sydney FC,63,60,59,62,64
+1217,137166,P. Jones,England,Fleetwood Town,66,60,61,61,65
+1218,226259,L. Andrenacci,Italy,Brescia,62,63,57,62,66
+1219,215252,P. Heredia,Argentina,Belgrano de C?rdoba,63,64,57,61,65
+1220,149721,G. Rogers,Republic of Ireland,Dundalk,64,64,60,63,64
+1221,235483,O. Framelin,Cameroon,CD Nacional,64,60,57,63,62
+1222,234717,S. P?rez,Chile,CD Palestino,68,59,70,62,63
+1223,235999,L. Garc?a,Colombia,Sevilla FC,66,62,59,64,63
+1224,236775,W. Viitala,Finland,Malm? FF,62,62,58,64,65
+1225,209644,T. Vincensini,France,Valenciennes FC,61,63,56,61,66
+1226,227825,Jang Dae Hee,Korea Republic,Jeonnam Dragons,63,62,57,63,64
+1227,219637,Ander Cantero,Spain,CF Rayo Majadahonda,53,69,59,68,64
+1228,54008,S. Bywater,England,Burton Albion,62,61,55,68,55
+1229,237050,O. Kudryk,Ukraine,Shakhtar Donetsk,66,58,49,64,63
+1230,142333,M. McNulty,Republic of Ireland,Cork City,63,60,54,62,66
+1231,158973,L. Corti,Argentina,San Mart?n de San Juan,61,58,56,74,63
+1232,183549,E. Parish,England,Dundee FC,64,63,62,59,65
+1233,228607,D. Reimann,Germany,Holstein Kiel,63,61,69,58,65
+1234,232448,K. Seki,Japan,Vegalta Sendai,57,61,61,62,63
+1235,203778,A. Horwath,United States,Real Salt Lake,63,57,60,64,62
+1236,229638,M. Kuleli,Turkey,?aykur Rizespor,62,59,58,59,63
+1237,212488,Quique Cebri?,Spain,SD Eibar,63,62,56,58,63
+1238,232713,D. Sappa,Argentina,Estudiantes de La Plata,52,62,68,69,56
+1239,246281,Emilio Bernad,Spain,Valencia CF,68,60,66,55,64
+1240,235018,M. Nicolas,Germany,Borussia M?nchengladbach,66,62,59,57,63
+1241,153100,S. Nelson,England,Yeovil Town,61,59,57,62,61
+1242,237580,D. Schmidt,Japan,Vegalta Sendai,64,62,67,60,62
+1243,229135,M. Hauptmeijer,Netherlands,PEC Zwolle,60,62,60,63,66
+1244,218387,N. Espinoza,Chile,San Luis de Quillota,61,59,58,62,64
+1245,236824,R. ten Hove,Netherlands,Feyenoord,60,65,48,64,64
+1246,186147,G. Woods,England,Hamilton Academical FC,66,60,60,55,66
+1247,191528,Hou Sen,China PR,Beijing Sinobo Guoan FC,58,63,62,62,62
+1248,204334,I. Gelios,Greece,FC Hansa Rostock,62,60,54,62,66
+1249,216110,D. Kudła,Poland,Zagł?bie Sosnowiec,61,56,67,63,64
+1250,194094,R. Koczor,Germany,FC Carl Zeiss Jena,63,57,60,63,65
+1251,215343,A. Mehring,Argentina,Godoy Cruz,58,60,63,65,63
+1252,153137,L. Sapela,Poland,Mied? Legnica,65,67,58,61,61
+1253,242242,S. Cibois,France,Paris Saint-Germain,62,63,60,60,63
+1254,243778,M. Hiller,Germany,TSV 1860 M?nchen,64,57,44,60,71
+1255,224837,V. Belon,France,Racing Club de Lens,64,61,61,57,62
+1256,210508,S. Antonio,Switzerland,FC Basel 1893,63,54,58,60,71
+1257,212560,N. Townsend,England,Newport County,59,61,64,62,65
+1258,203090,R. Charles-Cook,England,SønderjyskE,66,60,62,56,62
+1259,184148,J. Coppens,Belgium,FC Carl Zeiss Jena,66,61,55,53,68
+1260,206165,L. Maniero,Italy,Cittadella,62,61,57,61,65
+1261,192857,D. Facchin,Italy,Venezia FC,61,59,60,60,64
+1262,208988,H. Shaian,Saudi Arabia,Al Taawoun,62,57,59,63,64
+1263,237918,D. Sugimoto,Japan,Yokohama F. Marinos,60,65,59,63,61
+1264,211299,K. Roos,Netherlands,Derby County,66,58,60,59,61
+1265,236649,Y. van Osch,Netherlands,PSV,62,59,68,60,67
+1266,207723,S. van der Lei,Netherlands,Dalkurd FF,64,58,60,55,68
+1267,243311,Josep Mart?nez,Spain,UD Las Palmas,65,60,59,63,62
+1268,225650,T. King,England,AFC Wimbledon,63,62,56,62,63
+1269,53363,A. Collin,England,Carlisle United,63,58,56,61,65
+1270,191093,R. Pillot,France,La Berrichonne de Ch?teauroux,60,61,64,61,61
+1271,196983,A. Falch,Norway,Sarpsborg 08 FF,64,59,59,57,66
+1272,209532,D. Bachmann,Austria,Kilmarnock,60,58,54,60,65
+1273,239746,L. Watkowiak,Germany,SV Wehen Wiesbaden,65,59,64,60,66
+1274,201094,B. Garratt,England,Crewe Alexandra,65,58,58,61,66
+1275,226182,Sui Weijie,China PR,Chongqing Dangdai Lifan FC SWM Team,60,59,63,63,60
+1276,208776,F. Stritzel,Germany,SV Darmstadt 98,65,55,53,66,61
+1277,199831,R. Sattelmaier,Germany,SV Darmstadt 98,64,57,62,62,63
+1278,235932,A. Dadakdeniz,Turkey,Bursaspor,63,61,58,58,65
+1279,201117,W. Pawłowski,Poland,G?rnik Zabrze,62,60,50,59,63
+1280,222621,Du Jia,China PR,Tianjin TEDA FC,59,59,52,58,66
+1281,229534,E. Sanhueza,Chile,Audax Italiano,62,61,59,62,61
+1282,226721,G. Alcal?,Mexico,Quer?taro,67,59,60,58,64
+1283,210347,I. Lu?i?,Austria,FK Austria Wien,63,56,60,63,61
+1284,225203,L. Kelly,Scotland,Livingston FC,64,62,67,59,65
+1285,240311,L. Zidane,France,Real Madrid,65,60,61,62,61
+1286,246200,G. Zabret,Slovenia,Swansea City,68,57,55,58,66
+1287,237250,S. Cleveland,United States,Chicago Fire,63,59,60,60,65
+1288,244418,Jo?o Lopes,Brazil,Santa Clara,61,62,54,62,63
+1289,208067,Lee Jin Hyung,Korea Republic,Incheon United FC,62,59,62,63,64
+1290,191684,Jung San,Korea Republic,Incheon United FC,61,60,58,61,63
+1291,52679,J. Murphy,Republic of Ireland,Bury,59,62,60,62,60
+1292,214473,K. Piedrahita,United States,La Equidad,63,61,59,61,64
+1293,233934,A. Ramsdale,England,Bournemouth,63,59,57,60,70
+1294,189909,S. Slocombe,England,Lincoln City,65,56,58,62,65
+1295,229848,A. Vaikla,Estonia,Kristiansund BK,64,69,58,55,62
+1296,199130,G. Jansson,Sweden,IFK Norrk?ping,60,62,57,60,66
+1297,232410,F. Escales,France,Olympique de Marseille,68,63,58,61,58
+1298,135646,L. Walthert,Switzerland,Neuch?tel Xamax,65,61,62,62,62
+1299,220383,Aar?n,Spain,Granada CF,58,64,51,59,63
+1300,157407,B. Clarke,Republic of Ireland,St. Patrick's Athletic,62,61,59,62,64
+1301,232678,K. Shimura,Japan,J?bilo Iwata,67,62,55,64,59
+1302,230631,M. Festa,Italy,Crotone,65,62,58,59,61
+1303,237543,M. Siabanis,Greece,PAOK,63,58,59,60,67
+1304,152552,Y. Ma-Kalambay,DR Congo,Wycombe Wanderers,65,56,61,58,66
+1305,212973,M. Mari?,Croatia,Lillestrøm SK,63,57,65,66,66
+1306,180717,L. Reddy,Australia,Perth Glory,61,58,58,63,62
+1307,242159,Ricardo Friedrich,Brazil,FK Bodø/Glimt,63,59,53,59,64
+1308,182003,E. Dahlin,Sweden,IFK G?teborg,61,58,58,62,64
+1309,226804,J. Papaleo,Argentina,Uni?n de Santa Fe,55,60,64,68,61
+1310,193013,J. Shea,England,Luton Town,62,60,57,58,66
+1311,240888,T. Doornbusch,Netherlands,SC Heerenveen,63,62,59,62,64
+1312,215546,M. Brouwer,Netherlands,Heracles Almelo,65,61,59,57,62
+1313,53756,L. Price,Wales,Rotherham United,61,61,57,61,60
+1314,240128,J. Estrada,Mexico,Club Atlas,56,58,57,63,62
+1315,210690,P. Heigre,Norway,Strømsgodset IF,61,61,60,60,62
+1316,242178,J. Ram?rez,Colombia,Atl?tico Nacional,54,65,63,64,56
+1317,228611,D. Al Saeed,Saudi Arabia,Al Hazem,63,59,57,61,62
+1318,202244,B. Meredith,United States,Seattle Sounders FC,65,60,66,54,64
+1319,225543,B. Collins,England,Burton Albion,62,57,61,58,64
+1320,239382,F. Ot?rola,Argentina,Club Deportes Temuco,59,64,63,58,60
+1321,180760,F. Al Shammari,Saudi Arabia,Al Fayha,63,58,55,59,63
+1322,183070,W. Hesl,Germany,1. FC Kaiserslautern,58,59,38,64,62
+1323,212255,S. Mohlin,Sweden,Malm? FF,64,59,58,57,63
+1324,227371,W. Mosquera,Colombia,Jaguares de C?rdoba,54,62,66,65,63
+1325,237359,L. Jonsson,Sweden,IK Sirius,62,62,61,58,63
+1326,228912,B. Allain,France,Dijon FCO,64,57,59,57,62
+1327,234288,M. Uusitalo,Finland,HJK Helsinki,66,57,60,55,64
+1328,189233,T. Vaiho,Sweden,Djurg?rdens IF,57,56,59,58,67
+1329,215090,L. Sotomayor,Chile,Deportes Iquique,61,60,58,59,63
+1330,234803,N. Baxter,England,Yeovil Town,63,62,62,61,63
+1331,222007,C. O'Malley,Republic of Ireland,Peterborough United,62,60,57,63,62
+1332,208697,D. Rogers,Republic of Ireland,St. Mirren,63,60,61,58,64
+1333,229433,A. Zendejas,United States,Sporting Kansas City,66,58,59,58,64
+1334,232506,T. Masuda,Japan,V-Varen Nagasaki,61,60,58,56,64
+1335,241210,Y. Clementia,France,OGC Nice,60,59,58,60,67
+1336,203835,D. Orlishausen,Germany,FC Hansa Rostock,53,62,51,68,56
+1337,182076,Liu Zhenli,China PR,Shandong Luneng TaiShan FC,64,61,56,61,59
+1338,221759,Kim Gyeong Min,Korea Republic,Jeju United FC,59,57,62,54,64
+1339,241217,G. Hatano,Japan,FC Tokyo,61,68,56,61,61
+1340,211011,C. Dilo,France,Paris FC,62,61,57,60,62
+1341,227653,E. Edwards Jr.,United States,Orlando City SC,58,64,60,65,57
+1342,212038,A. Al Jadani,Saudi Arabia,Al Wehda,63,59,55,59,62
+1343,228935,M. Engelhardt,Germany,Eintracht Braunschweig,63,58,63,62,64
+1344,222024,T. Casali,Austria,SV Mattersburg,63,57,59,58,64
+1345,186188,R. Taylor,Wales,Macclesfield Town,59,61,48,61,65
+1346,236878,Cordero,Spain,Gimn?stic de Tarragona,60,60,59,61,63
+1347,204881,P. Camara,Senegal,Grenoble Foot 38,75,52,54,53,62
+1348,214353,W. Cuesta,Colombia,Deportes Tolima,58,61,55,64,59
+1349,240722,Campos,Spain,CD Numancia,63,60,65,57,65
+1350,242514,F. Plach,Slovakia,Piast Gliwice,61,60,64,62,61
+1351,210264,T. Vollnhofer,Austria,SKN St. P?lten,64,61,58,62,58
+1352,239710,Gorka Giralt,Spain,Real Oviedo,62,60,50,60,62
+1353,213344,D. Barnes,England,Colchester United,64,56,55,60,64
+1354,210791,A. Al Saleh,Saudi Arabia,Ettifaq FC,61,57,62,61,60
+1355,191336,S. Ando,Japan,Kawasaki Frontale,58,53,52,67,60
+1356,234858,M. Funk,Germany,SpVgg Greuther F?rth,61,59,61,58,62
+1357,243308,?lex Dos Santos,Brazil,Atl?tico Madrid,64,62,65,59,60
+1358,222829,S. Brodersen,Germany,FC St. Pauli,60,59,56,60,65
+1359,235633,Y. Diouf,France,ESTAC Troyes,61,63,60,62,60
+1360,238969,R. Laidlaw,Scotland,Hibernian,63,59,56,61,59
+1361,235387,B. Gaye,Gambia,DSC Arminia Bielefeld,64,58,53,57,65
+1362,246139,I?aki Pe?a,Spain,FC Barcelona,63,57,64,57,62
+1363,219260,F. Dornebusch,Germany,VfL Bochum 1848,63,56,53,63,63
+1364,239742,J. Klinsmann,United States,Hertha BSC,59,58,65,63,66
+1365,237695,M. Ortega,Mexico,Tigres U.A.N.L.,60,59,61,62,64
+1366,140164,Y. Guti?rrez,Mexico,Club Necaxa,59,62,63,60,57
+1367,220807,M. O'Leary,England,Bristol City,64,60,61,60,64
+1368,193164,E. Fern?ndez,Mexico,Tigres U.A.N.L.,60,61,60,60,64
+1369,202125,J. Bonham,Republic of Ireland,Bristol Rovers,63,60,67,61,63
+1370,240274,B. Pindroch,Slovakia,Notts County,65,59,60,60,61
+1371,221332,G. Guerrieri,Italy,Lazio,62,59,58,59,61
+1372,204437,A. Tozzo,Italy,Hellas Verona,64,59,68,60,61
+1373,198039,M. Gillespie,England,Motherwell,62,57,61,58,64
+1374,229783,D. Gyollai,Hungary,Stoke City,63,60,60,57,62
+1375,216473,T. Smith,England,Southend United,62,61,60,60,64
+1376,229530,R. Wulle,Germany,SV Sandhausen,60,60,57,59,62
+1377,231071,Miquel Parera,Spain,RCD Mallorca,67,55,56,55,68
+1378,215968,M. Reule,Germany,SG Sonnenhof Großaspach,64,57,59,55,62
+1379,192674,Leandro,Spain,RCD Mallorca,58,66,61,59,57
+1380,237987,Park Dae Han,Korea Republic,Jeonnam Dragons,63,59,57,57,63
+1381,219813,M. Havekotte,Netherlands,ADO Den Haag,62,62,58,60,65
+1382,220584,V. Myhra,Norway,Odds BK,63,61,57,57,62
+1383,226729,A. Swolfs,Belgium,Waasland-Beveren,62,60,56,56,66
+1384,204725,Lee Bum Soo,Korea Republic,Gyeongnam FC,61,61,59,60,61
+1385,228021,Yi Fan,China PR,Changchun Yatai FC,64,59,54,55,66
+1386,228789,Robert Sanchez,Spain,Forest Green Rovers,61,60,63,60,62
+1387,242105,M. Igonen,Estonia,Lillestrøm SK,62,58,49,59,62
+1388,232645,F. Cambeses,Argentina,Club Atl?tico Banfield,60,60,61,61,62
+1389,245446,M. Borquez,Chile,CD Palestino,61,63,60,61,63
+1390,233164,A. Muric,Montenegro,Manchester City,62,60,58,59,64
+1391,236239,A. Whiteman,England,Tottenham Hotspur,65,60,56,60,64
+1392,225751,A. Oxborough,England,Norwich City,64,60,55,56,62
+1393,182489,S. Davies,England,Tranmere Rovers,63,59,50,55,67
+1394,240091,G. Vicario,Italy,Venezia FC,60,62,57,58,61
+1395,242656,I. Meslier,France,FC Lorient,61,59,63,60,61
+1396,223982,R. Watson,England,Scunthorpe United,57,58,56,59,64
+1397,241648,B. Jano?evi?,Serbia,AIK,60,63,59,61,62
+1398,198132,D. Oberhauser,France,GFC Ajaccio,65,58,55,60,60
+1399,233466,M. Olsen Pettersen,Norway,SK Brann,63,59,58,60,64
+1400,214024,J. Wallens,Colombia,Deportivo Cali,56,60,59,66,58
+1401,246280,L. Yamaguchi,Japan,Extremadura UD,65,58,66,57,60
+1402,193035,Salcedo,Spain,CF Rayo Majadahonda,58,60,55,52,63
+1403,242189,N. Petric,Serbia,IF Brommapojkarna,61,59,58,61,63
+1404,245774,Ota?o,Spain,CD Tenerife,63,62,59,61,64
+1405,242703,J. Marcinkowski,United States,San Jose Earthquakes,64,60,65,56,63
+1406,180755,T. Velaphi,Australia,Perth Glory,60,55,55,59,60
+1407,229397,M. Vargas,Chile,Universidad Cat?lica,59,57,58,58,62
+1408,244503,H. Hanki?,Austria,FC Wacker Innsbruck,62,58,60,60,59
+1409,243736,K. Rauhut,Germany,FC Energie Cottbus,62,60,56,60,62
+1410,204825,B. Wilson,England,Bradford City,61,59,54,57,59
+1411,237081,V. Xenopoulos,Greece,Panathinaikos FC,65,57,50,57,63
+1412,236571,M. Paes,Netherlands,FC Utrecht,63,52,55,59,62
+1413,198685,L. O'Brien,England,Coventry City,62,59,63,54,63
+1414,241183,Sergio Tienza,Spain,Real Betis,67,65,55,57,59
+1415,225061,A. Al Ruhaili,Saudi Arabia,Al Raed,63,60,52,58,58
+1416,182312,Yang Jun,China PR,Tianjin Quanjian FC,61,59,60,59,57
+1417,244779,P. Bastianello,Italy,Brescia,62,61,56,59,62
+1418,245556,Ximo Miralles,Spain,AD Alcorc?n,60,65,56,59,56
+1419,229685,J. Fryer,England,Carlisle United,63,55,59,55,63
+1420,245561,Lombo,Spain,CD Legan?s,52,58,60,67,61
+1421,227899,A. Pel?ez,Mexico,Cruz Azul,63,57,54,55,62
+1422,232507,R. Hironaga,Japan,Sanfrecce Hiroshima,62,59,59,60,62
+1423,223040,F. ?akır,Turkey,Medipol Ba?ak?ehir FK,59,60,59,58,59
+1424,240704,Guo Quanbo,China PR,Beijing Sinobo Guoan FC,58,56,60,61,60
+1425,212033,A. Favaro,Italy,Padova,61,60,57,57,61
+1426,246603,Matis Carvalho,Portugal,Toulouse Football Club,59,59,59,59,61
+1427,225868,David Gil,Spain,C?diz CF,62,60,64,57,63
+1428,194894,F. Rossi,Italy,Atalanta,62,59,62,58,60
+1429,208719,P. K?hn,Germany,VfL Osnabr?ck,63,59,60,58,60
+1430,219983,U. Saracco,Italy,Cosenza,63,60,53,51,68
+1431,223823,T. K?nigsmann,Germany,SpVgg Greuther F?rth,57,61,62,49,68
+1432,245330,Adri?n,Spain,Elche CF,63,57,54,58,60
+1433,235606,J. Karlstrøm,Norway,Tromsø IL,60,60,57,57,62
+1434,244567,A. Putna,United States,Real Salt Lake,60,61,60,60,59
+1435,182359,Yang Qipeng,China PR,Tianjin TEDA FC,57,55,61,60,61
+1436,219482,R. Fulton,Scotland,Hamilton Academical FC,58,59,64,57,64
+1437,224349,M. Seidel,Germany,1. FC Magdeburg,62,60,51,58,60
+1438,231262,Leja,Spain,Granada CF,60,58,56,59,62
+1439,210785,B. Al Baqi,Saudi Arabia,Al Ahli,59,57,55,64,58
+1440,245601,C. S?nchez,Cuba,Real Sporting de Gij?n,63,58,55,60,62
+1441,244066,C. Frommann,Germany,SC Freiburg,62,59,57,55,63
+1442,183140,A. Krysiak,Poland,FK Bodø/Glimt,64,57,55,52,63
+1443,227941,B. Moore,United States,Rochdale,60,57,60,59,61
+1444,232549,M. Peano,Argentina,Uni?n de Santa Fe,65,56,57,57,62
+1445,233067,Sergio Garc?a,Spain,Real Zaragoza,59,63,54,61,57
+1446,233324,V. Cabezas,Colombia,Deportivo Pasto,61,59,55,58,62
+1447,198253,S. Arnold,England,Shrewsbury,64,61,55,56,61
+1448,237426,H. Nakabayashi,Japan,Sanfrecce Hiroshima,63,60,66,57,66
+1449,121980,A. Poggenborg,Germany,SC Fortuna K?ln,54,63,50,66,56
+1450,233085,F. Costa,Argentina,Patronato,62,57,55,56,63
+1451,234877,F. Bunti?,Croatia,FC Ingolstadt 04,62,59,58,58,59
+1452,203396,P. Perina,Italy,Cosenza,63,61,59,61,59
+1453,240776,S. Laiton,France,AJ Auxerre,57,59,53,56,59
+1454,245897,R. Mysak,Ukraine,Aarhus GF,58,61,54,59,58
+1455,217994,M. Crowe,Wales,Preston North End,57,60,58,60,58
+1456,238223,B. Bvuma,South Africa,Kaizer Chiefs,65,62,52,52,63
+1457,240785,M. Cerofolini,Italy,Cosenza,60,60,60,63,60
+1458,211090,D. Evtimov,Bulgaria,Burton Albion,59,62,58,60,56
+1459,208531,P. McLain,United States,Chicago Fire,63,57,62,57,63
+1460,234643,L. B?tge,Germany,FC W?rzburger Kickers,63,59,56,60,61
+1461,214425,J. Quezada,Chile,Uni?n Espa?ola,58,56,66,63,57
+1462,231075,B. Makendzhiev,Bulgaria,,61,54,60,69,58
+1463,239275,G. Bakırba?,Turkey,G?ztepe SK,58,61,58,61,59
+1464,181933,Zhang Sipeng,China PR,Guizhou Hengfeng FC,58,63,58,61,58
+1465,232366,N. Iwadate,Japan,Urawa Red Diamonds,60,61,64,57,60
+1466,232367,H. Fukushima,Japan,Urawa Red Diamonds,61,58,69,58,60
+1467,237232,B. ?en,Turkey,Galatasaray SK,60,60,56,58,66
+1468,241584,J. Mendive,Argentina,Club Atl?tico Hurac?n,53,66,60,61,57
+1469,244409,F. Faist,Austria,TSV Hartberg,63,60,53,54,60
+1470,233916,L. Chiappero,Argentina,Defensa y Justicia,62,54,58,57,61
+1471,240063,M. Cassara,France,GFC Ajaccio,63,61,60,58,62
+1472,192961,L. Budziłek,Poland,Pogo? Szczecin,60,62,63,58,58
+1473,104900,M. Gurski,Germany,SpVgg Unterhaching,54,63,38,62,60
+1474,243397,Daniel Rebollo,Spain,Real Betis,60,63,62,55,57
+1475,231116,N. Temperini,Argentina,Newell's Old Boys,62,56,61,58,62
+1476,232654,L. Malag?n,Mexico,Monarcas Morelia,60,58,63,62,64
+1477,212175,P. Farman,England,Stevenage,61,57,62,55,62
+1478,237776,K. Tanno,Japan,Cerezo Osaka,63,67,58,56,58
+1479,228562,R. Sallinger,Austria,TSV Hartberg,64,58,59,56,62
+1480,237525,A. Bodart,Belgium,Standard de Li?ge,63,59,57,54,62
+1481,239573,M. Bleve,Italy,Lecce,65,62,58,59,62
+1482,243925,M. Behrens,Germany,Hamburger SV,64,62,55,55,61
+1483,242397,Chechu Grana,Spain,CF Reus Deportiu,61,59,58,57,62
+1484,229860,F. Andersson,Sweden,Malm? FF,58,65,53,59,60
+1485,235237,R. Jendrusch,Germany,FC Erzgebirge Aue,63,58,57,55,64
+1486,222695,R. Husi?,Germany,VfR Aalen,62,60,58,57,61
+1487,231914,D. Margush,Australia,Adelaide United,57,61,57,60,61
+1488,175603,R. Gilmartin,Republic of Ireland,Colchester United,66,58,58,58,60
+1489,214008,A. Al Arraf,Saudi Arabia,Al Taawoun,59,60,57,60,62
+1490,236536,J. Sievers,Germany,1. FC Kaiserslautern,63,55,55,58,60
+1491,240123,L. Plogmann,Germany,SV Werder Bremen,60,57,55,54,66
+1492,210940,S. Perilli,Italy,Perugia,60,60,58,59,60
+1493,222471,J. Rasheed,Norway,BK H?cken,61,57,58,58,60
+1494,219657,L. Wedl,Austria,FC Wacker Innsbruck,58,54,54,58,61
+1495,226572,W. Sietsma,Netherlands,Milton Keynes Dons,60,55,57,59,62
+1496,229393,S. Hornby,England,Port Vale,61,59,61,57,61
+1497,231187,Oleaga,Spain,Athletic Club de Bilbao,63,57,60,58,59
+1498,230935,Z. de la Paz,Curacao,Oldham Athletic,62,50,60,58,65
+1499,242969,N. Baumann,Switzerland,FC Lugano,61,56,59,55,63
+1500,243737,M. Kamenz,Germany,FSV Zwickau,64,59,59,56,58
+1501,228383,K. Grabara,Poland,Liverpool,60,57,52,56,60
+1502,244001,T. Weiner,Germany,Holstein Kiel,60,57,60,56,63
+1503,223270,D. Olsson,Sweden,IF Elfsborg,57,60,59,57,62
+1504,244262,D. Horka?,Croatia,Dinamo Zagreb,58,55,53,57,63
+1505,232743,T. Enomoto,Japan,Urawa Red Diamonds,59,58,58,60,56
+1506,245800,A. Busti,Canada,,59,59,56,57,59
+1507,237097,Moon Jeong In,Korea Republic,Ulsan Hyundai FC,56,57,61,58,62
+1508,219701,J. Wr?bel,Poland,?l?sk Wrocław,61,56,53,54,61
+1509,179767,C. Dunn,England,Walsall,60,58,59,59,60
+1510,18745,M. Tyler,England,Peterborough United,61,54,54,63,55
+1511,166713,B. Murphy,Republic of Ireland,St. Patrick's Athletic,60,59,60,57,58
+1512,223804,C. Mitchell,Northern Ireland,St. Johnstone FC,59,57,56,60,60
+1513,224068,H. Konat?,Ivory Coast,Valenciennes FC,59,55,60,54,63
+1514,229956,L. Zigi,Ghana,FC Sochaux-Montb?liard,61,52,50,58,63
+1515,182347,Ou Ya,China PR,Hebei China Fortune FC,55,63,56,61,55
+1516,238927,J. Gies,Germany,SV Meppen,57,59,55,54,64
+1517,245589,Alberto Gonz?lez,Spain,C?rdoba CF,64,57,55,56,57
+1518,237399,E. Louro,United States,New York Red Bulls,59,57,62,63,59
+1519,244568,C. Estrada,Mexico,Club Am?rica,60,58,59,59,63
+1520,202079,D. Blazevic,Sweden,Hammarby IF,59,57,55,60,58
+1521,120415,S. Shearer,Scotland,Oxford United,59,56,52,60,60
+1522,245089,Samu P?rez,Spain,Real Valladolid CF,61,58,53,54,65
+1523,222820,E. Salles,France,Grenoble Foot 38,61,56,56,55,62
+1524,225136,T. Hadler,England,Gillingham,62,57,56,58,64
+1525,231028,M. ?arki?,Montenegro,Aston Villa,59,57,58,59,58
+1526,243573,A. Racioppi,Switzerland,Olympique Lyonnais,60,54,56,57,63
+1527,236406,M. Hamrol,Germany,Korona Kielce,60,58,48,58,61
+1528,239993,A. Romero,United States,Pachuca,59,58,53,59,63
+1529,229243,T. Wiesner,Germany,Fortuna D?sseldorf,62,59,57,57,60
+1530,224895,F. Serraiocco,Italy,Carpi,61,56,55,57,60
+1531,242818,F. Dahmen,Germany,1. FSV Mainz 05,61,58,51,59,62
+1532,235141,P. Menzel,Germany,VfL Wolfsburg,63,60,58,57,56
+1533,237704,Jo?o Virg?nia,Portugal,Everton,62,57,57,58,64
+1534,244367,T. Kucz,Poland,Bayer 04 Leverkusen,63,51,57,58,64
+1535,235155,J. Bekkema,Netherlands,SC Heerenveen,63,57,50,58,63
+1536,206500,J. Maxted,England,Accrington Stanley,60,59,60,58,63
+1537,238503,L. Weinkauf,Germany,Hannover 96,63,60,61,55,56
+1538,213678,K. O'Hara,Republic of Ireland,Macclesfield Town,61,55,54,57,62
+1539,244656,Y. Takaoka,Japan,Sagan Tosu,63,60,54,52,58
+1540,245431,C. Topaloglu,Turkey,?aykur Rizespor,59,57,56,63,65
+1541,240318,Kang Bong Gyun,Korea Republic,Suwon Samsung Bluewings,54,67,50,57,58
+1542,223683,T. De Bie,Belgium,KV Oostende,63,53,53,54,65
+1543,53960,S. Russell,England,Grimsby Town,56,60,58,60,58
+1544,225993,O. Sail,New Zealand,Wellington Phoenix,60,55,62,54,60
+1545,227529,M. Hudson,England,Bury,58,59,53,60,58
+1546,239564,J. Bruhns,Germany,SC Fortuna K?ln,61,58,54,54,64
+1547,236237,J. Bolado,Argentina,Godoy Cruz,68,55,55,55,64
+1548,212178,J. Flatt,England,Scunthorpe United,62,56,58,59,59
+1549,242131,C. Arroyave,Colombia,Itag?? Leones FC,60,59,54,54,64
+1550,224215,V. Baume,Belgium,Sporting de Charleroi,60,56,58,53,65
+1551,226524,M. Johansson,Sweden,Trelleborgs FF,58,60,57,56,62
+1552,202973,Kwon Tae Ahn,Korea Republic,Sangju Sangmu FC,59,57,60,60,59
+1553,228322,Guille Lara,Spain,UD Almer?a,61,54,55,57,60
+1554,206566,M. Crocombe,New Zealand,,61,56,54,56,63
+1555,209895,M. Acton,Australia,Melbourne Victory,62,57,56,53,62
+1556,232936,K. Tokushige,Japan,V-Varen Nagasaki,59,54,61,62,57
+1557,238060,N. Trott,England,West Ham United,62,57,64,58,63
+1558,228845,H. Sandvik,Norway,FK Haugesund,58,58,57,56,59
+1559,213489,M. Kuchta,Poland,Zagł?bie Lubin,59,54,59,62,60
+1560,214525,D. Richards,Wales,Crewe Alexandra,61,55,56,57,61
+1561,223488,M. Sætra,Norway,Strømsgodset IF,59,55,54,57,61
+1562,204298,F. Due,Denmark,Randers FC,59,51,63,57,59
+1563,187658,L. Saxton,England,GIF Sundsvall,57,59,60,56,55
+1564,140300,P. Cherrie,Scotland,Derry City,56,56,58,57,55
+1565,234511,G. Banaziak,France,Amiens SC,59,58,59,58,59
+1566,223760,A. Singh,India,,56,53,54,63,60
+1567,246032,D. Sv??ek,Czech Republic,Viktoria Plze?,52,57,59,54,67
+1568,235539,A. Al Ghamdi,Saudi Arabia,Al Raed,57,60,49,56,58
+1569,219159,D. Nizic,Australia,Western Sydney Wanderers,61,56,56,53,60
+1570,240920,F. Al Habib,Saudi Arabia,Al Shabab,57,64,49,53,62
+1571,242721,E. Dick,United States,Sporting Kansas City,55,60,58,58,55
+1572,138786,B. Williams,England,Bolton Wanderers,54,58,53,55,56
+1573,238628,J. Albrecht,Germany,SV Wehen Wiesbaden,58,58,59,55,57
+1574,240681,J. Hoekstra,Netherlands,FC Groningen,59,58,56,59,61
+1575,240170,K. Niemczycki,Poland,NAC Breda,57,58,55,57,60
+1576,243242,Park Ji Min,Korea Republic,Suwon Samsung Bluewings,57,57,56,56,57
+1577,244524,N. Quindt,Germany,VfL Sportfreunde Lotte,61,54,58,54,58
+1578,244018,M. Staniszewski,Poland,Arka Gdynia,58,59,55,55,61
+1579,211768,L. Italiano,Australia,Newcastle Jets,61,53,58,54,59
+1580,241978,C. Higuera,Mexico,Club Tijuana,53,58,49,60,59
+1581,245818,A. Bacci,Italy,Ascoli,58,58,60,60,58
+1582,243774,J. Jaime,Argentina,San Martin de Tucum?n,60,58,57,54,58
+1583,241215,R. Hirosue,Japan,FC Tokyo,59,55,69,52,65
+1584,245056,K. Bucker,Netherlands,Heracles Almelo,62,52,53,56,58
+1585,235074,S. Kjellevold,Norway,Stabæk Fotball,60,57,58,56,62
+1586,236613,L. Grill,Germany,1. FC Kaiserslautern,59,55,55,56,59
+1587,233030,F. Pizzicanella,Argentina,Atl?tico Tucum?n,57,58,61,52,56
+1588,238919,J. Pantemis,Canada,Montreal Impact,62,55,58,58,55
+1589,239689,M. Sprang,Germany,FSV Zwickau,58,61,57,53,54
+1590,237133,R. Cagnon,France,Olympique de Marseille,60,64,52,58,53
+1591,223827,J. McDonnell,England,AFC Wimbledon,58,56,54,58,62
+1592,235860,M. Woud,New Zealand,Willem II,59,48,52,54,64
+1593,242266,E. Bansen,Germany,SV Zulte-Waregem,64,58,56,62,55
+1594,240987,M. Cooper,England,Plymouth Argyle,60,55,57,52,63
+1595,237922,M. Gonzalez,Chile,CD Everton de Vi?a del Mar,59,58,55,56,61
+1596,243810,L. Ingolotti,Argentina,Club Atl?tico Aldosivi,61,54,55,57,62
+1597,244578,G. Pozos,Mexico,Club Le?n,62,58,59,58,59
+1598,244073,Y. Bangsow,Germany,Eintracht Braunschweig,59,55,54,53,61
+1599,232560,K. Kirihata,Japan,Kashiwa Reysol,52,56,59,65,53
+1600,232817,I. Chicco,Argentina,Club Atl?tico Col?n,60,61,54,58,55
+1601,232566,H. Takimoto,Japan,Kashiwa Reysol,61,55,55,50,62
+1602,192120,Geng Xiaofeng,China PR,Hebei China Fortune FC,59,62,56,58,52
+1603,215418,M. Soldo,Austria,Wolfsberger AC,54,60,56,55,58
+1604,244090,L. Schaffran,Germany,SpVgg Greuther F?rth,62,61,59,54,55
+1605,194430,K. Fegrouche,Morocco,IK Sirius,58,59,55,59,58
+1606,229252,A. Torres,Mexico,Guadalajara,62,57,53,50,58
+1607,245382,A. Rosteghin,Italy,Cittadella,60,58,55,55,60
+1608,242315,D. Petersson,Sweden,Trelleborgs FF,48,68,52,38,70
+1609,244107,E. Pauchet,France,Chamois Niortais Football Club,60,58,62,59,60
+1610,137356,S. Farelli,Italy,Pescara,63,57,56,55,58
+1611,239500,E. Gr?ndemann,Germany,FC Hansa Rostock,58,58,58,58,63
+1612,244878,G. Kyrnats,Russia,PFC CSKA Moscow,55,58,50,58,57
+1613,226450,M. Awaji,Saudi Arabia,Al Shabab,59,63,52,57,54
+1614,242579,C. Baldovino,Colombia,Alianza Petrolera,61,58,54,54,60
+1615,220564,M. Rudakov,Russia,HJK Helsinki,59,55,54,57,61
+1616,221845,Han Rongze,China PR,Shandong Luneng TaiShan FC,53,57,53,63,57
+1617,240791,Marcos Lav?n,Spain,C?rdoba CF,56,62,54,54,60
+1618,243878,R. Benz,Germany,KFC Uerdingen 05,57,58,52,56,59
+1619,207528,R. Fitzsimons,England,Notts County,59,59,51,52,60
+1620,213676,M. Beeney,England,Sligo Rovers,56,58,52,62,56
+1621,231351,Y. Urra,Chile,CD Huachipato,57,56,62,58,62
+1622,244417,J. Krahl,Germany,RB Leipzig,61,51,57,47,70
+1623,210119,Q. Roberts,Canada,Los Angeles FC,64,56,52,52,61
+1624,240584,B. Verbong,Netherlands,VVV-Venlo,61,59,60,52,58
+1625,182474,Zhang Chong,China PR,Dalian YiFang FC,58,56,65,59,54
+1626,219854,G. Smith,England,Lincoln City,61,54,65,55,57
+1627,229586,Pablo Cacharr?n,Spain,CD Lugo,56,57,54,56,59
+1628,205267,J. Rodr?guez,Mexico,Puebla FC,58,54,54,58,58
+1629,242391,M. Pattier,France,FC Lorient,60,56,61,58,59
+1630,176860,C. M?nsson,Sweden,Kristiansund BK,57,58,57,59,59
+1631,190179,D. Cornell,Wales,Northampton Town,61,56,62,55,60
+1632,193512,M. He?a,Czech Republic,Sparta Praha,58,56,55,53,58
+1633,244458,A. Sebald,Germany,FC Hansa Rostock,57,63,56,53,58
+1634,245230,M. Salaba,Austria,SV Mattersburg,62,55,56,59,63
+1635,244975,F. Maddaloni,France,Chamois Niortais Football Club,56,57,55,58,64
+1636,241649,R. Emanuelsson,Sweden,IF Brommapojkarna,59,58,57,60,59
+1637,176631,B. Lekstr?m,Sweden,Hammarby IF,58,59,56,60,58
+1638,183031,Han Feng,China PR,Guangzhou R&F; FC,59,55,58,55,57
+1639,237305,L. Ketterer,United States,Columbus Crew SC,54,57,55,65,52
+1640,28157,P. van der Vlag,Netherlands,FC Emmen,54,63,59,61,51
+1641,233725,T. Nijhuis,Netherlands,FC Utrecht,63,54,59,54,58
+1642,231935,R. Kim,Russia,Pohang Steelers,62,53,65,53,60
+1643,242689,S. Pab?n,Colombia,Junior FC,59,55,56,52,60
+1644,237576,N. Insfr?n,Argentina,Gimnasia y Esgrima La Plata,54,54,62,61,53
+1645,244746,L. Ntumba,France,Dijon FCO,57,54,55,54,61
+1646,245007,G. Volpe,Italy,US Cremonese,57,61,54,53,58
+1647,226838,Wang Guoming,China PR,Henan Jianye FC,58,55,56,58,59
+1648,11800,C. Weale,England,Exeter City,57,56,57,56,56
+1649,245276,M. Al Rubaie,Saudi Arabia,Al Batin,57,55,59,54,61
+1650,223011,F. Sollacaro,France,AC Ajaccio,62,49,55,50,64
+1651,233252,O. Pati?o,Colombia,Rionegro ?guilas,61,52,55,54,56
+1652,244011,M. Zach,Germany,Hallescher FC,61,56,55,53,60
+1653,243502,J. Bursztyn,Poland,Pogo? Szczecin,63,55,57,52,58
+1654,237615,G. Poluzzi,Italy,SPAL,55,58,47,52,66
+1655,225845,N. Araya,Chile,CD Antofagasta,57,53,55,54,59
+1656,239927,O. Ottesen,Denmark,FC Midtjylland,53,54,58,56,60
+1657,243260,J. De Smet,Belgium,KV Kortrijk,62,56,53,57,56
+1658,240192,M. Ranmark,Norway,Molde FK,61,58,55,54,58
+1659,226120,J. Rondeel,Netherlands,De Graafschap,62,51,53,49,62
+1660,208460,J. Montgomery,England,Forest Green Rovers,57,56,58,55,56
+1661,242252,M. Lenes,Norway,Ranheim Fotball,57,57,58,57,58
+1662,245074,Choi Young Eun,Korea Republic,Daegu FC,58,58,45,52,62
+1663,234324,L. Bilboe,England,Rotherham United,60,57,60,56,55
+1664,238167,P. Boevink,Netherlands,FC Groningen,55,58,58,55,57
+1665,244320,L. Br?ggemeier,Germany,SC Paderborn 07,60,55,58,55,58
+1666,245088,M. Al Haeti,Saudi Arabia,Ettifaq FC,57,57,55,54,59
+1667,224622,Sun Le,China PR,Shanghai SIPG FC,58,55,54,53,58
+1668,225134,A. Bass,England,Portsmouth,58,54,51,54,58
+1669,220530,D. Lavercombe,England,Wigan Athletic,60,57,58,59,58
+1670,234611,C. Fogacci,France,GFC Ajaccio,63,53,53,57,55
+1671,237430,R. Suzuki,Japan,Gamba Osaka,60,63,55,49,60
+1672,194679,M. Halstead,England,Morecambe,58,59,63,56,52
+1673,237176,R. Schofield,England,Huddersfield Town,60,58,51,53,56
+1674,239736,T. Trueba,Mexico,Puebla FC,64,55,54,54,54
+1675,227967,Chen Anqi,China PR,Chongqing Dangdai Lifan FC SWM Team,58,56,54,52,59
+1676,245632,Morro,Spain,Rayo Vallecano,56,54,57,53,61
+1677,240514,M. Johnstone,England,Sunderland,61,60,52,58,52
+1678,237188,N. Bishop,England,Southend United,59,58,57,57,59
+1679,231046,J. Eastwood,England,Sheffield United,59,56,50,56,60
+1680,231562,J. Meneses,Colombia,Am?rica de Cali,56,60,57,58,58
+1681,239510,M. K?bbing,Germany,1. FC Heidenheim 1846,62,58,53,52,57
+1682,229274,L. Thomas,Wales,Forest Green Rovers,63,51,55,53,60
+1683,155547,J. Jensen,Denmark,Esbjerg fB,52,60,63,61,52
+1684,228255,N. Lema?tre,France,Stade de Reims,61,52,56,55,59
+1685,241314,Li Haitao,China PR,Jiangsu Suning FC,60,48,54,55,59
+1686,242352,A. Attiah,Saudi Arabia,Al Wehda,61,56,51,52,64
+1687,231859,C. Brown,United States,Seattle Sounders FC,51,58,67,51,64
+1688,239797,M. Lansing,United States,Aalborg BK,57,55,62,55,56
+1689,239546,C. Libertiaux,Belgium,Royal Excel Mouscron,58,56,59,56,61
+1690,243647,A. Bayındır,Turkey,MKE Ankarag?c?,57,58,52,60,57
+1691,246464,J. Theissen,Germany,Fortuna D?sseldorf,61,58,59,53,55
+1692,213967,C. Mafoumbi,Congo,Blackpool,59,51,57,50,62
+1693,219344,A. Al Basisi,Saudi Arabia,Ohod Club,57,55,54,58,57
+1694,233425,E. Kastrati,Albania,Pescara,62,57,54,56,62
+1695,236252,V. Karaku?,Turkey,Kayserispor,62,58,49,48,64
+1696,231647,M. Asiri,Saudi Arabia,Al Qadisiyah,57,58,51,58,58
+1697,182240,Qiu Shengjiong,China PR,Shanghai Greenland Shenhua FC,55,61,63,56,53
+1698,232673,M. Al Haidari,Saudi Arabia,Al Hilal,55,58,55,58,55
+1699,102881,K. Stamatopoulos,Canada,AIK,57,52,54,57,56
+1700,246241,Y. Lenze,Germany,FC Schalke 04,58,55,63,51,60
+1701,236005,J. Vom Steeg,United States,LA Galaxy,59,60,54,52,57
+1702,183533,D. Lyness,England,St. Mirren,59,59,53,48,63
+1703,229368,M. Norman,England,Rochdale,58,59,57,55,55
+1704,246012,J. Truque,Colombia,Once Caldas,55,61,63,57,63
+1705,239358,S. Dieng,Switzerland,Stevenage,62,51,57,53,62
+1706,225280,D. Mitov,Bulgaria,Cambridge United,63,54,53,51,55
+1707,231682,T. Heward-Belle,Australia,Sydney FC,60,60,52,53,57
+1708,243718,R. Koot,Netherlands,Fortuna Sittard,59,55,59,55,56
+1709,237575,J. Pourtau,Argentina,Estudiantes de La Plata,55,58,55,52,61
+1710,242446,M. Wolff,Argentina,Club Atl?tico Tigre,53,57,51,58,55
+1711,244498,K. Szyma?ski,Poland,Lech Pozna?,61,59,60,47,54
+1712,181015,B. Kennedy,Australia,Central Coast Mariners,59,49,58,59,54
+1713,242200,T. R?nning,Sweden,IF Elfsborg,56,57,55,58,59
+1714,239385,A. Jerez,Chile,Curic? Unido,56,61,52,53,52
+1715,242715,A. Grinwis,United States,Orlando City SC,60,52,55,50,59
+1716,238620,M. Layer,Germany,VfR Aalen,59,59,55,52,52
+1717,243490,C. Ariza,Colombia,Jaguares de C?rdoba,59,52,48,55,57
+1718,222503,H. Isted,England,Luton Town,60,54,57,50,57
+1719,244775,R. Caicedo,Colombia,Boyac? Chic? FC,55,63,59,52,58
+1720,210728,V. Viot,France,AS B?ziers,59,54,52,53,56
+1721,239410,M. Kos,Austria,FK Austria Wien,57,53,51,52,60
+1722,231237,P. Jensen,Denmark,FC Nordsjælland,57,57,57,58,53
+1723,232007,M. Lis,Poland,Wisła Krak?w,59,55,51,58,58
+1724,191559,S. Kawamata,Japan,Kashima Antlers,58,52,55,54,63
+1725,245580,L. Brand,Netherlands,Willem II,60,60,54,50,51
+1726,224593,Y. Zummack,Germany,VfL Sportfreunde Lotte,59,51,53,51,61
+1727,236371,Marc Vito,Spain,Girona FC,56,55,51,51,60
+1728,232539,K. Ogi,Japan,Vissel Kobe,50,58,48,57,58
+1729,245085,A. Al Bahri,Saudi Arabia,Ettifaq FC,58,54,51,55,57
+1730,242526,K. Dybowski,Poland,Piast Gliwice,56,59,62,54,58
+1731,245854,T. Vermot,France,AS Saint-?tienne,62,51,61,54,62
+1732,245599,Dar?o Ramos,Spain,Albacete BP,56,59,63,53,56
+1733,215656,K. Mendoza,Denmark,AC Horsens,57,56,55,52,57
+1734,238186,M. Bulka,Poland,Chelsea,57,54,56,52,59
+1735,230765,H. Al Watyan,Saudi Arabia,Al Fateh,55,58,49,52,58
+1736,230001,H. Campbell,England,Burton Albion,63,52,48,56,56
+1737,240245,L. Ureta,Chile,CD O'Higgins,51,57,53,49,64
+1738,228217,C. Lyon,United States,Los Angeles FC,58,53,65,56,52
+1739,225406,J. Talbot,Republic of Ireland,Bohemian FC,58,54,57,49,56
+1740,242564,D. Tomii,Japan,Shonan Bellmare,61,51,49,51,60
+1741,235413,R. Majecki,Poland,Legia Warszawa,54,56,50,51,59
+1742,244119,P. Patron,France,Clermont Foot 63,56,57,52,59,54
+1743,202141,Y. Mersin,Turkey,Crawley Town,57,52,55,56,59
+1744,245415,A. Abdulhameed,Saudi Arabia,Al Hazem,59,57,51,52,58
+1745,244654,K. Osako,Japan,Sanfrecce Hiroshima,57,54,56,49,59
+1746,237236,I. ?nal,Turkey,Alanyaspor,54,56,58,56,58
+1747,228533,Lee Joon Hee,Korea Republic,Gyeongnam FC,60,49,52,52,61
+1748,231861,M. Stajduhar,United States,Orlando City SC,59,54,62,53,55
+1749,243387,S. Brolin,Sweden,AIK,61,57,53,52,55
+1750,225981,A. Pearce,Australia,Central Coast Mariners,58,60,58,49,57
+1751,241597,B. White,Australia,Brisbane Roar,54,58,54,54,57
+1752,241859,R. Hoffmann,Germany,FC Bayern M?nchen,57,49,64,61,58
+1753,181702,Y. Uekusa,Japan,Shimizu S-Pulse,46,48,59,55,65
+1754,242636,E. Moran,Republic of Ireland,Bray Wanderers,56,55,55,53,59
+1755,242382,L. Ashby-Hammond,England,Fulham,57,57,56,53,60
+1756,225489,F. Schram,Iceland,,57,53,56,51,57
+1757,236758,O. Christensen,Denmark,Odense Boldklub,56,57,51,54,56
+1758,238298,M. Mi?o,Argentina,Rosario Central,61,56,49,46,58
+1759,218593,S. Moore,England,Milton Keynes Dons,57,56,57,53,55
+1760,232418,Y. Takeda,Japan,Nagoya Grampus,58,52,56,59,54
+1761,228067,Kim Tae Ho,Korea Republic,Daegu FC,59,47,54,57,59
+1762,239076,A. Nurudeen,Ghana,KAS Eupen,62,53,51,46,63
+1763,246246,B. Leneis,Germany,FC Augsburg,64,53,59,55,56
+1764,221163,T. Hagelskjaer,Denmark,Vejle Boldklub,56,54,50,56,54
+1765,230893,O. Evans,Wales,Wigan Athletic,59,58,56,55,57
+1766,244468,M. Vantruba,Slovakia,SK Slavia Praha,57,52,58,50,58
+1767,235260,A. Ogalde,Chile,Universidad Cat?lica,60,55,58,55,57
+1768,238076,M. Bersano,United States,San Jose Earthquakes,56,51,60,54,58
+1769,240894,R. Ferguson,Scotland,Motherwell,60,53,61,51,59
+1770,229130,K. Horgan,Republic of Ireland,Shamrock Rovers,55,56,57,54,54
+1771,239882,J. Tibbetts,England,Peterborough United,58,54,45,52,62
+1772,245771,W. Huffer,England,Leeds United,56,53,53,52,59
+1773,234260,A. Fisher,England,Blackburn Rovers,58,53,52,52,60
+1774,243476,M. Borgogno,Argentina,V?lez Sarsfield,55,53,50,54,54
+1775,220190,Cristian Arco,Spain,C?diz CF,56,53,55,53,52
+1776,235806,G. Satalino,Italy,Sassuolo,51,55,48,56,56
+1777,213535,K. Zobeck,United States,FC Dallas,55,54,54,54,55
+1778,244256,D. Bielica,Poland,G?rnik Zabrze,55,56,62,56,57
+1779,244768,M. Akjah,Saudi Arabia,Al Wehda,56,57,54,49,56
+1780,233505,R. Sandford,England,Millwall,57,56,55,55,56
+1781,235556,A. Al Shehry,Saudi Arabia,Al Qadisiyah,55,51,51,53,59
+1782,243750,Gianluca Zanette,Brazil,Vejle Boldklub,55,57,55,54,56
+1783,244016,Taliby,Spain,CD Numancia,55,53,51,53,61
+1784,242229,B. Maher,Republic of Ireland,St. Patrick's Athletic,55,56,54,54,56
+1785,243012,B. Niezgoda,Poland,Jagiellonia Białystok,59,57,45,47,58
+1786,232518,M. Matic,Switzerland,Grasshopper Club Z?rich,60,57,60,55,53
+1787,242251,T. Amos,Sweden,IFK G?teborg,48,54,56,58,57
+1788,242262,M. Karlsson,Sweden,?rebro SK,56,52,58,52,57
+1789,242774,Y. Oki,Japan,Kashima Antlers,57,50,55,50,61
+1790,234842,F. Kraft,Germany,VfL Bochum 1848,58,53,56,50,59
+1791,235375,A. Quintana,Colombia,Atl?tico Huila,49,57,54,58,55
+1792,237935,K. Klaesson,Norway,V?lerenga Fotball,54,51,50,53,59
+1793,245359,C. Moreno,Mexico,CD Everton de Vi?a del Mar,56,59,56,50,55
+1794,233328,E. Selen,Turkey,Yeni Malatyaspor,58,55,59,46,52
+1795,245874,A. Sevestre,France,US Orl?ans Loiret Football,54,57,55,53,59
+1796,235124,S. Jurado,Mexico,Tiburones Rojos de Veracruz,57,58,57,50,56
+1797,232565,G. Kawanami,Japan,Vegalta Sendai,57,60,52,55,52
+1798,226423,N. Gartside,Northern Ireland,Derry City,57,51,51,51,57
+1799,235383,R. Piscitelli,Italy,Carpi,51,52,49,61,57
+1800,244861,J. Gali?,Germany,SV Darmstadt 98,55,52,54,52,60
+1801,243341,R. Ya?ez,Chile,CD O'Higgins,61,51,61,55,55
+1802,237201,K. McIntosh,United States,Portland Timbers,53,55,64,54,55
+1803,238482,L. Gray,Wales,Carlisle United,56,53,51,51,59
+1804,240537,L. Wackerle,Austria,SKN St. P?lten,59,55,55,53,58
+1805,242585,T. Shibuya,Japan,Nagoya Grampus,55,53,51,54,54
+1806,235421,B. Ozegovic,Austria,SCR Altach,60,54,53,50,59
+1807,244386,M. Prinz,Germany,SC Preußen M?nster,51,55,53,48,60
+1808,244645,P. Pellegrino,Italy,Cosenza,55,55,55,55,55
+1809,240553,A. Kapp,United States,Minnesota United FC,58,55,63,49,54
+1810,245164,V. Kaith,India,,55,50,57,59,53
+1811,222901,C. L?pez,Colombia,Itag?? Leones FC,52,56,48,58,56
+1812,237751,Y. Nishibe,Japan,Shimizu S-Pulse,54,59,56,59,56
+1813,229306,L. O'Reilly,England,Carlisle United,57,54,50,52,55
+1814,245435,R. Al Najjar,Saudi Arabia,Al Ittihad,56,59,54,48,56
+1815,243905,R. Mantel,Belgium,Sporting Lokeren,51,55,53,59,60
+1816,220611,J. Hamon,England,Exeter City,54,53,51,52,57
+1817,240838,B. Wade,England,Rochdale,56,60,57,54,53
+1818,240330,H. Hawsawi,Saudi Arabia,Al Fayha,56,52,54,54,57
+1819,245706,J. Montoya,Colombia,Itag?? Leones FC,61,53,51,48,64
+1820,233683,Li Chen,China PR,Beijing Renhe FC,53,58,56,56,50
+1821,244439,M. Minder,Switzerland,Neuch?tel Xamax,59,56,54,53,55
+1822,241882,M. Goto,Japan,Shonan Bellmare,57,52,47,49,60
+1823,232679,T. Okuda,Japan,V-Varen Nagasaki,56,50,54,58,55
+1824,237802,C. Haas,Austria,SK Rapid Wien,52,55,60,57,54
+1825,223988,L. Ward,England,Northampton Town,58,55,55,51,51
+1826,236794,J. Dakir,Denmark,Randers FC,57,53,50,52,55
+1827,242179,Y. Fofana,France,Le Havre AC,59,55,54,52,55
+1828,233481,E. Ross,England,Colchester United,56,58,46,53,55
+1829,228109,T. Holland,Republic of Ireland,Limerick FC,53,49,47,53,57
+1830,235535,R. Lovett,England,Cheltenham Town,57,55,53,54,56
+1831,245269,E. Fadda,Saudi Arabia,Al Qadisiyah,57,54,50,50,55
+1832,244760,D. Bochicchio,Italy,Sporting de Charleroi,55,54,43,51,55
+1833,208932,A. Al Shammari,Saudi Arabia,Al Raed,56,52,52,52,54
+1834,242726,S. Wilson,England,Mansfield Town,57,54,53,53,57
+1835,245545,S. Barone,Italy,Spezia,56,54,52,50,55
+1836,244781,C. Giuliani,Austria,SK Sturm Graz,58,57,56,49,57
+1837,241206,D. Maekawa,Japan,Vissel Kobe,55,51,44,55,59
+1838,245558,G. Maley,Scotland,Livingston FC,50,56,48,59,50
+1839,241207,K. Yoshimaru,Japan,Vissel Kobe,57,52,50,50,54
+1840,246327,N. van den Dam,Netherlands,De Graafschap,56,52,51,56,56
+1841,240955,T. Durso,Argentina,Gimnasia y Esgrima La Plata,57,54,53,57,54
+1842,246076,M. Molenda,Poland,Arka Gdynia,50,52,56,53,56
+1843,240460,B. Al Bahrani,Saudi Arabia,Al Fateh,53,59,46,50,54
+1844,244828,R. Guti?rrez,Mexico,Monarcas Morelia,49,56,57,54,57
+1845,237414,W. Popp,Japan,Kawasaki Frontale,55,52,63,54,49
+1846,237927,E. McGinty,Republic of Ireland,Sligo Rovers,53,53,51,52,55
+1847,225390,H. Str?mgren,Sweden,Kalmar FF,49,63,47,52,52
+1848,241519,Li Lei,China PR,Guizhou Hengfeng FC,54,47,44,56,61
+1849,238448,A. Fantini,Japan,Sagan Tosu,58,49,54,56,48
+1850,239477,A. Damlu,Turkey,Yeni Malatyaspor,57,58,48,47,55
+1851,242297,A. Søndergaard,Denmark,Wolverhampton Wanderers,56,54,50,51,54
+1852,237434,G. Harada,Japan,Yokohama F. Marinos,55,53,48,55,56
+1853,242301,J. Beaulieu,Canada,Montreal Impact,55,55,46,53,55
+1854,228223,J. Weaver,England,Birmingham City,52,51,52,50,58
+1855,228998,D. Marzino,Switzerland,BSC Young Boys,62,49,50,46,60
+1856,246150,J. Echave,Chile,Uni?n Espa?ola,56,54,53,51,58
+1857,241563,J. L?rtiga,Chile,San Luis de Quillota,59,46,51,44,61
+1858,242851,Shen Shuaishuai,China PR,Guangzhou R&F; FC,59,51,59,51,46
+1859,229031,N. Baumann,Switzerland,FC Z?rich,60,51,50,49,54
+1860,237736,S. Awaka,Japan,Hokkaido Consadole Sapporo,51,59,49,51,52
+1861,240297,R. K?llman,Finland,HJK Helsinki,59,53,51,52,57
+1862,245425,N. James,Australia,Newcastle Jets,57,54,51,51,57
+1863,224947,D. Grimshaw,England,Manchester City,54,53,56,50,57
+1864,241599,B. Crellin,England,Fleetwood Town,55,52,55,52,56
+1865,241091,B. Scott,United States,1. FC K?ln,59,52,54,53,55
+1866,233668,Zhang Yan,China PR,Jiangsu Suning FC,59,54,55,45,54
+1867,239816,N. Mantl,Germany,SpVgg Unterhaching,57,53,53,44,62
+1868,227545,T. Ryan,Republic of Ireland,Cork City,55,54,51,53,59
+1869,233689,J. Lindgren,Sweden,IFK Norrk?ping,60,55,53,47,52
+1870,240346,S. George,England,Tranmere Rovers,56,52,48,53,55
+1871,225500,M. Loaiza,Colombia,Atl?tico Bucaramanga,56,53,47,51,54
+1872,222431,J. Storevik,Norway,Sandefjord Fotball,55,45,54,53,56
+1873,243699,F. Ibsen,Denmark,FC København,56,55,59,53,55
+1874,234228,R. McCrorie,Scotland,Rangers FC,50,50,62,57,56
+1875,241401,S. Moloney,England,Bury,55,51,53,55,54
+1876,244478,K. Krzepisz,Poland,Arka Gdynia,52,47,56,55,58
+1877,228369,J. Walton,England,Barnsley,57,49,46,49,53
+1878,238373,L. Rivas,Colombia,Deportes Tolima,52,57,50,45,58
+1879,231722,A. Long,France,FC Sochaux-Montb?liard,57,58,48,48,51
+1880,241962,M. Tomizawa,Japan,V-Varen Nagasaki,56,53,49,50,53
+1881,224555,Xu Jiamin,China PR,Beijing Renhe FC,56,52,49,49,54
+1882,244015,M. Schlosser,Germany,FC Erzgebirge Aue,60,52,53,49,54
+1883,244534,D. Szczerbal,Poland,?l?sk Wrocław,61,49,51,47,56
+1884,230971,N. Tzanev,New Zealand,AFC Wimbledon,55,48,47,49,53
+1885,244551,F. Majchrowicz,Poland,Cracovia,59,55,53,49,52
+1886,244813,M. Zapytowski,Poland,Wisła Płock,54,56,53,55,54
+1887,244069,M. Schragl,Austria,Karlsruher SC,57,52,53,48,56
+1888,231273,B. Manosalva,Chile,CD Huachipato,53,48,52,51,58
+1889,240489,M. Christiansen,Norway,Lillestrøm SK,55,55,53,51,52
+1890,245866,L. Pelletier,France,RC Strasbourg Alsace,51,59,55,45,55
+1891,243566,T. Herbots,Belgium,Sint-Truidense VV,58,53,56,48,54
+1892,237167,R. Miura,Japan,J?bilo Iwata,58,54,52,49,48
+1893,227975,H. Fossdal,Norway,FK Haugesund,54,48,45,49,56
+1894,235912,K. Al Mozaibri,Saudi Arabia,Al Batin,61,50,56,49,53
+1895,244620,L. Jacot,Switzerland,FC Luzern,58,51,55,47,57
+1896,241293,Wang Min,China PR,Chongqing Dangdai Lifan FC SWM Team,55,49,50,48,56
+1897,236431,E. Alarc?n,Argentina,Patronato,56,55,55,50,52
+1898,225427,S. Arango,Colombia,Boyac? Chic? FC,59,48,50,48,53
+1899,242068,L. Moser,Germany,1. FC Union Berlin,53,54,52,55,51
+1900,244132,L. Sedlak,Germany,FC Carl Zeiss Jena,52,51,53,49,58
+1901,212392,R. Stewart,Scotland,Livingston FC,54,52,52,46,58
+1902,224681,Wen Zhixiang,China PR,Henan Jianye FC,52,45,44,53,60
+1903,245931,G. Vannucchi,Italy,US Salernitana 1919,53,55,56,54,51
+1904,241326,Shi Xiaodong,China PR,Shanghai SIPG FC,51,55,57,47,49
+1905,241327,Chen Wei,China PR,Shanghai SIPG FC,52,52,51,52,52
+1906,228022,Liu Yu,China PR,Changchun Yatai FC,54,52,51,50,51
+1907,242615,R. Treacy,Republic of Ireland,Dundalk,55,52,52,51,52
+1908,245176,J. Bartels,Germany,1. FC K?ln,57,52,51,53,50
+1909,232633,M. Hayashi,Japan,Gamba Osaka,54,51,54,51,49
+1910,239811,Lee Yunoh,Korea Republic,Vegalta Sendai,54,52,55,52,59
+1911,243139,J. Borquez,Chile,Deportes Iquique,60,49,55,56,52
+1912,216262,M. Urwin,England,Fleetwood Town,55,45,51,53,58
+1913,207829,L. Coddington,England,Northampton Town,55,51,54,47,56
+1914,237269,J. McGuire,United States,Philadelphia Union,49,52,69,51,54
+1915,244440,F. Nicastro,Italy,Neuch?tel Xamax,50,52,58,58,52
+1916,243930,M. O'Connor,Republic of Ireland,Bray Wanderers,53,52,53,52,55
+1917,245723,S. Gustafsson,Sweden,?rebro SK,53,56,42,54,52
+1918,244701,J. Brady,Republic of Ireland,Limerick FC,53,52,54,53,55
+1919,245470,K. Broda,Poland,Wisła Krak?w,59,51,53,45,58
+1920,246262,L. Soldini,Switzerland,FC Lugano,56,58,58,45,55
+1921,51963,T. Warner,Trinidad & Tobago,Accrington Stanley,48,56,56,60,44
+1922,240386,G. Nyberg,Sweden,IK Sirius,55,49,53,53,56
+1923,244484,B. Grøtterud,Norway,FK Bodø/Glimt,55,52,48,44,59
+1924,243720,P. Sok?ł,Poland,Korona Kielce,48,59,47,52,57
+1925,245002,P. Durin,Croatia,Portsmouth,59,55,51,41,55
+1926,246288,E. Bojang,Sweden,Hammarby IF,58,56,48,42,49
+1927,228117,O. Jonsson,Sweden,Djurg?rdens IF,56,47,51,44,58
+1928,100899,S. Phillips,England,Yeovil Town,48,54,47,53,46
+1929,245292,M. Yıldız,Turkey,Kasimpa?a SK,47,54,58,51,54
+1930,243758,B. ?ynel,Poland,Wisła Płock,56,54,55,45,54
+1931,238907,H. Abdulmajeed,Saudi Arabia,Ohod Club,60,52,45,44,55
+1932,225342,J. Stevens,England,Oxford United,56,50,47,45,54
+1933,245567,G. Tolino,Switzerland,FC St. Gallen,49,57,53,52,50
+1934,242243,H. Saruta,Japan,Kashiwa Reysol,57,46,59,53,55
+1935,244553,M. K?stenbauer,Austria,FC Admira Wacker M?dling,56,55,45,41,57
+1936,240218,A. Weidinger,Germany, SSV Jahn Regensburg,51,54,56,56,49
+1937,245090,L. Beckemeyer,Germany,VfL Osnabr?ck,57,55,51,44,56
+1938,243299,M. Nelson,United States,Houston Dynamo,48,55,54,50,55
+1939,242031,C. Hauervig,Denmark,Brøndby IF,49,55,52,48,53
+1940,230000,W. J??skel?inen,Finland,Crewe Alexandra,58,50,49,45,55
+1941,244351,T. Romboli,Italy,Livorno,56,55,54,53,48
+1942,243584,S. Bohan,Republic of Ireland,Bohemian FC,54,56,55,43,52
+1943,244355,J. Brendieck,Germany,MSV Duisburg,55,53,49,51,55
+1944,207493,L. Simpson,England,Macclesfield Town,59,52,68,39,50
+1945,206477,N. Corbet,Republic of Ireland,Waterford FC,56,48,52,50,55
+1946,240531,M. Al Baqawi,Saudi Arabia,Al Taawoun,55,51,49,47,58
+1947,239767,A. Kappenberger,Denmark,Hobro IK,52,53,52,42,55
+1948,245407,N. Ziswiler,Switzerland,FC Thun,50,57,45,54,51
+1949,239019,J. Delianov,Australia,Melbourne City FC,52,54,57,53,53
+1950,240565,G. Meli,Italy,Empoli,52,54,55,49,56
+1951,227770,M. Boney,England,Blackpool,54,47,44,49,55
+1952,233681,Liu Shibo,China PR,Guangzhou Evergrande Taobao FC,49,56,50,41,59
+1953,241883,K. Sanada,Japan,Shonan Bellmare,57,45,41,46,63
+1954,242145,B. Gradecki,Poland,Wisła Płock,51,55,55,45,55
+1955,232676,N. Hatta,Japan,J?bilo Iwata,54,48,45,52,54
+1956,245479,A. Czaplak,Poland,Zagł?bie Sosnowiec,58,56,58,40,58
+1957,246003,F. Norman,England,Exeter City,54,52,51,50,53
+1958,240884,A. Andr? Jr,Morocco,Bristol Rovers,46,52,65,50,54
+1959,243189,T. Nagaishi,Japan,Cerezo Osaka,56,46,44,51,53
+1960,241655,K. Thiesson Kristensen,Denmark,Aarhus GF,58,51,56,51,46
+1961,243198,S. Melvin,Canada,Vancouver Whitecaps FC,56,51,57,53,48
+1962,245502,R. Al Najjar,Saudi Arabia,Al Shabab,53,48,60,53,52
+1963,243979,H. Ræstad,Norway,Molde FK,55,51,53,40,56
+1964,244493,E. Harloff,Norway,SK Brann,49,58,57,41,55
+1965,242206,J. Caldwell,United States,New York City FC,54,47,51,50,54
+1966,244777,J. Osobi?ski,Poland,Korona Kielce,53,45,58,45,58
+1967,237127,D. Thiam,Senegal,SPAL,48,51,58,62,48
+1968,243796,D. Hodzic,Croatia,Vejle Boldklub,50,47,56,52,58
+1969,245859,S. Sarri,Italy,Foggia,57,52,47,43,60
+1970,243072,Ding Bowei,China PR,Tianjin TEDA FC,55,54,54,48,45
+1971,244359,L. Catherall,England,Gillingham,53,50,50,45,57
+1972,244362,L. Hunn,Switzerland,Grasshopper Club Z?rich,48,51,51,53,49
+1973,243877,T. Schneider,Germany,KFC Uerdingen 05,61,44,57,42,52
+1974,243629,J. Garc?a,Chile,Audax Italiano,47,58,52,52,46
+1975,232126,D. Craddock,Republic of Ireland,Aberdeen,52,57,51,47,47
+1976,241099,L. Finochietto,Argentina,Argentinos Juniors,57,51,54,52,50
+1977,245464,M. Wo?niak,Poland,Lechia Gda?sk,57,47,52,49,49
+1978,245467,J. Szpaderski,Poland,Mied? Legnica,49,59,47,40,59
+1979,239594,J. Imbrechts,Sweden,Sporting de Charleroi,55,49,53,45,56
+1980,241908,I. Richards,Australia,Adelaide United,53,54,48,48,55
+1981,233215,C. Addai,Ghana,Coventry City,51,48,40,53,56
+1982,243213,S. Al Wehimid,Saudi Arabia,Al Nassr,53,47,49,51,48
+1983,211490,J. Miszczuk,Poland,Jagiellonia Białystok,48,48,49,48,51
+1984,205861,A. Mills,England,?stersunds FK,51,46,45,49,51
+1985,237917,A. Suzuki,Japan,Yokohama F. Marinos,49,48,54,52,54
+1986,246111,M. Humpen?der,Germany,FC W?rzburger Kickers,49,55,50,41,53
+1987,243822,K. Civelek,Turkey,BB Erzurumspor,54,53,48,47,47
+1988,242290,M. Antkowiak,Poland,Lincoln City,53,49,47,42,52
+1989,236919,N. Suman,Australia,Western Sydney Wanderers,48,57,50,48,49
+1990,241018,F. Nørgaard,Denmark,AC Horsens,51,50,52,47,54
+1991,245370,E. Destanoglu,Turkey,Be?ikta? JK,52,52,50,47,52
+1992,243073,Teng Shangkun,China PR,Tianjin TEDA FC,46,56,55,45,53
+1993,244866,H. Wulff,Norway,Stabæk Fotball,50,47,53,50,53
+1994,243093,Zhang Jingyi,China PR,Jiangsu Suning FC,45,59,46,44,50
+1995,240286,J. Garc?a,Mexico,Santos Laguna,47,56,54,44,52
+1996,242086,M. Sutton,Australia,Melbourne Victory,50,49,48,50,52
+1997,243110,Sun Qibin,China PR,Tianjin Quanjian FC,50,46,51,48,50
+1998,244943,E. Bilen,Turkey,G?ztepe SK,55,53,55,41,50
+1999,240339,J. Granlund,Norway,Sandefjord Fotball,49,53,49,43,53
+2000,232149,M. Connor,Republic of Ireland,Waterford FC,51,51,53,44,52
+2001,243934,J. Hipper,Germany,TSV 1860 M?nchen,56,47,44,46,51
+2002,246240,H. Bernat,Denmark,Odense Boldklub,50,48,58,51,52
+2003,243681,V. Smedsrud,Denmark,SønderjyskE,54,45,53,46,56
+2004,243685,J. Cleary,Republic of Ireland,Bohemian FC,47,55,58,45,50
+2005,245735,J. Kelly,Republic of Ireland,Bray Wanderers,50,49,49,50,49
+2006,239857,Chen Zhao,China PR,Shanghai Greenland Shenhua FC,50,52,50,40,53
+2007,237045,R. Pasquel,Mexico,Deportivo Toluca,54,53,47,40,56
+2008,243711,T. Callens,France,Stade Malherbe Caen,57,51,46,45,51
+2009,245542,G. Figliuzzi,Italy,Crotone,49,51,44,45,50
+2010,244043,N. Stephan,Germany,FC W?rzburger Kickers,49,48,57,49,54
+2011,245587,J. Greatorex,England,Barnsley,47,58,47,41,47
+2012,237463,A. Kelsey,England,Scunthorpe United,50,49,50,45,49
+2013,233398,W. Henry,England,Swindon Town,56,46,45,38,54
+2014,244172,M. Harsman,Germany,SV Meppen,55,48,50,44,48
+2015,225510,D. Mackay,Scotland,Kilmarnock,48,50,47,48,48
+2016,245223,W. Appleyard,England,Stevenage,47,53,58,48,49
+2017,244810,T. Lawal,Austria,LASK Linz,51,50,53,48,46
+2018,244817,D. Szczepaniak,Poland,Morecambe,50,45,49,50,49
+2019,243636,C. Hawkins,England,Burton Albion,53,45,56,49,46
+2020,243158,L. Wahlstedt,Sweden,Dalkurd FF,47,46,50,45,51
+2021,221669,M. Hurst,Scotland,St. Johnstone FC,45,49,50,50,45
+2022,53748,K. Pilkington,England,Cambridge United,45,48,44,49,46
+2023,245862,J. Milli,Italy,Lecce,52,52,52,40,44
+2024,242844,J. Livesey,England,Burton Albion,46,52,58,42,48
